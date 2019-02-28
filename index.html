@@ -1,0 +1,188 @@
+<html lang="nl">
+<head>
+    <title>Alternative products</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="http://www.google.com/jsapi" type="text/javascript"></script>
+    <script type="text/javascript">
+        /**
+         * @param {string} searchTerm - Search term for Google Image search.
+         * @param id
+         *   been found. The callback gets the URL, width and height of the image.
+         *   The callback gets a string that describes the failure reason.
+         */
+        function getImageUrl(searchTerm, id) {
+            // Google image search - 100 searches per day.
+            // https://developers.google.com/image-search/
+            // var searchUrl = 'https://ajax.googleapis.com/ajax/services/search/images' +
+            //   '?v=1.0&q=' + encodeURIComponent(searchTerm);
+            const key = "AIzaSyANlU_3yHbRKxu0j-uCzFGFoqx2DAAHXds";
+            const cx = "003384539617203728385:exlwmuiu1q0";
+            const searchUrl = 'https://www.googleapis.com/customsearch/v1' +
+                '?key=' + key + '&cx=' + cx + '&searchType=image&q=' + encodeURIComponent(searchTerm);
+
+            const x = new XMLHttpRequest();
+            x.open('GET', searchUrl);
+            // The Google image search API responds with JSON, so let Chrome parse it.
+            x.responseType = 'json';
+            x.onload = function () {
+                // Parse and process the response from Google Image Search.
+                const response = x.response;
+                const firstResult = response.items[0];
+                // Take the thumbnail instead of the full image to get an approximately
+                // consistent image size.
+                const imageUrl = firstResult.link;
+                const width = parseInt(firstResult.image.width);
+                const height = parseInt(firstResult.image.height);
+                console.assert(
+                    typeof imageUrl == 'string' && !isNaN(width) && !isNaN(height),
+                    'Unexpected respose from the Google Image Search API!');
+                $(id)
+                    .attr('src', imageUrl);
+            };
+            x.send();
+        }
+
+        function getUrlVars() {
+            var vars = {};
+            window.location.href.replace(/[?&]+([^=&]+)=([^&]*)/gi, function (m, key, value) {
+                vars[key] = value;
+            });
+            return vars;
+        }
+
+        function loadJSON(callback) {
+            var xobj = new XMLHttpRequest();
+            xobj.overrideMimeType("application/json");
+            xobj.open('GET', 'data.json', true); // Replace 'my_data' with the path to your file
+            xobj.onreadystatechange = function () {
+                if (xobj.readyState == 4 && xobj.status == "200") {
+                    // Required use of an anonymous callback as .open will NOT return a value but simply returns undefined in asynchronous mode
+                    callback(xobj.responseText);
+                }
+            };
+            xobj.send(null);
+        }
+
+        let data;
+        const to = getUrlVars()["to"];
+        const from = getUrlVars()["from"];
+        let index = from;
+        const nbProductsTested = to - from;
+        $(document).ready(function () {
+            loadJSON(function (response) {
+                // Parse JSON string into object
+                data = JSON.parse(response);
+                showProducts(0);
+            });
+
+        });
+
+        function showProducts(altNb) {
+            const originalText = data[index].brand + " - " + data[index].name + " - " + data[index].content_summary;
+            getImageUrl(originalText, "#original");
+            $("#originalText").text(originalText);
+
+            let alternativeBrand;
+            let alternativeName;
+            let alternativeContent;
+            switch(altNb) {
+                case 0:
+                    alternativeBrand = data[index].first_alt_brand;
+                    alternativeName = data[index].first_alt_name;
+                    alternativeContent = data[index].first_alt_content;
+                    break;
+                case 1:
+                    alternativeBrand = data[index].second_alt_brand;
+                    alternativeName = data[index].second_alt_name;
+                    alternativeContent = data[index].second_alt_content;
+                    break;
+                default:
+                // code block
+            }
+            const alternativeText = alternativeBrand + " - " + alternativeName + " - " + alternativeContent;
+            getImageUrl(alternativeText, "#alternative");
+            $("#alternativeText").text(alternativeText);
+            $("#index").text((index - from) + " out of " + nbProductsTested);
+        }
+
+        function showNextProduct() {
+            index++;
+            if (index == to) {
+                const wnd = window.open("about:blank", "", "_blank");
+                const result = (matches * 100 / nbProductsTested) + "%";
+                const output = {"result": result, "from": from, "to": to, "products": testedProducts};
+                wnd.document.write('<div style="width:600px; margin:auto;"><iframe src="https://giphy.com/embed/IcGkqdUmYLFGE" width="600px" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><br/><br/>' + JSON.stringify(output));
+            } else {
+                showProducts(0);
+            }
+        }
+
+        let matches = 0;
+        let testedProducts = new Array(nbProductsTested);
+        let currentAltNb = 0;
+        function match(result) {
+            if (result) {
+                matches++;
+                data[index].match = result;
+                data[index].matchAltNb = currentAltNb+1;
+                testedProducts[index - from] = data[index];
+                showNextProduct();
+                currentAltNb = 0;
+            } else if (currentAltNb < 1) {
+                currentAltNb++;
+                showProducts(currentAltNb);
+            } else {
+                data[index].match = false;
+                data[index].matchAltNb = 0;
+                testedProducts[index - from] = data[index];
+                showNextProduct();
+            }
+
+        }
+
+    </script>
+
+    <style>
+        .row {
+            width: 600px;
+            display: flex;
+            margin: auto;
+        }
+
+        .column {
+            flex: 50%;
+            padding: 5px;
+            text-align: center;
+        }
+    </style>
+</head>
+
+<body>
+<div class="container">
+    <div style="width:400px; margin:auto;"><img style="padding:50px; width:300px" src="title.png"/></div>
+    <div class="row">
+        <div class="column" style="text-align: center; width: 300px; height: 300px;">
+            <img id="original" style="max-width: 300px; max-height: 300px;"/>
+            <p id="originalText"></p>
+        </div>
+        <div class="column" style="text-align: center; width: 300px; height: 300px;">
+            <img id="alternative" style="max-width: 300px; max-height: 300px;"/>
+            <p id="alternativeText"></p>
+        </div>
+    </div>
+    <div style="width: 600px; margin:auto;">
+        <div class="row" style="padding-top:80px">
+            <div class="column">
+                <a href="javascript:void(0);" onclick="match(true);"><img style="width: 100px; margin: auto;"
+                                                                          src="right.png"/></a>
+            </div>
+            <div class="column">
+                <a href="javascript:void(0);" onclick="match(false);"><img style="width: 225px; margin: auto;"
+                                                                           src="wrong.png"/></a>
+            </div>
+        </div>
+    </div>
+    <div style="width:200px; margin:auto;"><p style="text-align: center;" id="index"/></div>
+</div>
+</body>
+</html>
