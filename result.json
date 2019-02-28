@@ -3757,7 +3757,7 @@
     "third_alt_brand": "Boni Selection",
     "third_alt_content": "125 g",
     "match": false,
-    "matchAltNb": 0
+    "matchAltNb": 2
   },
   {
     "product_identity": 9097,
@@ -3776,8 +3776,8 @@
     "third_alt_name": "Minitoast",
     "third_alt_brand": "Boni Selection",
     "third_alt_content": "120 g",
-    "match": false,
-    "matchAltNb": 0
+    "match": true,
+    "matchAltNb": 1
   },
   {
     "product_identity": 9343,
@@ -3936,8 +3936,8 @@
     "third_alt_name": "Berry Delight",
     "third_alt_brand": "Nakd",
     "third_alt_content": "4 stuks",
-    "match": false,
-    "matchAltNb": 0
+    "match": true,
+    "matchAltNb": 1
   },
   {
     "product_identity": 2605,
@@ -3976,8 +3976,8 @@
     "third_alt_name": "Abrikozen Gedroogd",
     "third_alt_brand": "Boni Selection",
     "third_alt_content": "200 g",
-    "match": false,
-    "matchAltNb": 0
+    "match": true,
+    "matchAltNb": 3
   },
   {
     "product_identity": 2607,

@@ -15,7 +15,8 @@
     "second_alt_content": "4 stuks",
     "third_alt_name": "Kruidkoek Naturel",
     "third_alt_brand": "Snelle Jelle",
-    "third_alt_content": "5 stuks"
+    "third_alt_content": "5 stuks",
+    "matchAltNb": []
   },
   {
     "product_identity": 1432,
@@ -33,7 +34,8 @@
     "second_alt_content": "100 g",
     "third_alt_name": "Zeezout Molen",
     "third_alt_brand": "Silvo",
-    "third_alt_content": "70 g"
+    "third_alt_content": "70 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 1127,
@@ -51,7 +53,8 @@
     "second_alt_content": "88 g",
     "third_alt_name": "Mix Voor Kip Strooibus",
     "third_alt_brand": "Silvo",
-    "third_alt_content": "135 g"
+    "third_alt_content": "135 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 1150,
@@ -69,7 +72,8 @@
     "second_alt_content": "32 g",
     "third_alt_name": "Komijnzaad Gemalen",
     "third_alt_brand": "Silvo",
-    "third_alt_content": "37 g"
+    "third_alt_content": "37 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 1441,
@@ -87,7 +91,8 @@
     "second_alt_content": "15 g",
     "third_alt_name": "Dille",
     "third_alt_brand": "Boni Selection",
-    "third_alt_content": "12 g"
+    "third_alt_content": "12 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 993,
@@ -105,7 +110,8 @@
     "second_alt_content": "32 g",
     "third_alt_name": "Kaneel Gemalen",
     "third_alt_brand": "Boni Selection",
-    "third_alt_content": "40 g"
+    "third_alt_content": "40 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 1347,
@@ -123,7 +129,8 @@
     "second_alt_content": "250 g",
     "third_alt_name": "Dadels Bio",
     "third_alt_brand": "Smaakt",
-    "third_alt_content": "250 g"
+    "third_alt_content": "250 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 1446,
@@ -141,7 +148,8 @@
     "second_alt_content": "40 g",
     "third_alt_name": "Mix Voor Gehakt Bretons",
     "third_alt_brand": "Silvo",
-    "third_alt_content": "40 g"
+    "third_alt_content": "40 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 1438,
@@ -159,7 +167,8 @@
     "second_alt_content": "35 g",
     "third_alt_name": "Italiaanse Mix Molen",
     "third_alt_brand": "Boni Selection",
-    "third_alt_content": "35 g"
+    "third_alt_content": "35 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 1445,
@@ -177,7 +186,8 @@
     "second_alt_content": "40 g",
     "third_alt_name": "Mix Voor Gehakt Italiaans",
     "third_alt_brand": "Silvo",
-    "third_alt_content": "40 g"
+    "third_alt_content": "40 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 1903,
@@ -195,7 +205,8 @@
     "second_alt_content": "32 g",
     "third_alt_name": "Tijm",
     "third_alt_brand": "Silvo",
-    "third_alt_content": "15 g"
+    "third_alt_content": "15 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 1908,
@@ -213,7 +224,8 @@
     "second_alt_content": "5 g",
     "third_alt_name": "Tijm",
     "third_alt_brand": "Silvo",
-    "third_alt_content": "15 g"
+    "third_alt_content": "15 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 1104,
@@ -231,7 +243,8 @@
     "second_alt_content": "205 g",
     "third_alt_name": "Chips Paprika",
     "third_alt_brand": "Croky",
-    "third_alt_content": "175 g"
+    "third_alt_content": "175 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 1435,
@@ -249,7 +262,8 @@
     "second_alt_content": "40 g",
     "third_alt_name": "Zwarte Peper Molen",
     "third_alt_brand": "Boni Selection",
-    "third_alt_content": "35 g"
+    "third_alt_content": "35 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 1904,
@@ -267,7 +281,8 @@
     "second_alt_content": "40 g",
     "third_alt_name": "Koekkruiden",
     "third_alt_brand": "Silvo",
-    "third_alt_content": "34 g"
+    "third_alt_content": "34 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 1907,
@@ -285,7 +300,8 @@
     "second_alt_content": "1 stuks",
     "third_alt_name": "Dille",
     "third_alt_brand": "Silvo",
-    "third_alt_content": "12 g"
+    "third_alt_content": "12 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 1260,
@@ -303,7 +319,8 @@
     "second_alt_content": "40 g",
     "third_alt_name": "Mix Voor Gehakt",
     "third_alt_brand": "Silvo",
-    "third_alt_content": "40 g"
+    "third_alt_content": "40 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 952,
@@ -321,7 +338,8 @@
     "second_alt_content": "37 g",
     "third_alt_name": "Italiaanse Kruiden",
     "third_alt_brand": "Silvo",
-    "third_alt_content": "11 g"
+    "third_alt_content": "11 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 1436,
@@ -339,7 +357,8 @@
     "second_alt_content": "40 g",
     "third_alt_name": "Zwarte Peper Gemalen",
     "third_alt_brand": "Silvo",
-    "third_alt_content": "40 g"
+    "third_alt_content": "40 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 1439,
@@ -357,7 +376,8 @@
     "second_alt_content": "15 g",
     "third_alt_name": "Peterselie Bio",
     "third_alt_brand": "Boni Bio",
-    "third_alt_content": "8 g"
+    "third_alt_content": "8 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 1437,
@@ -375,7 +395,8 @@
     "second_alt_content": "40 g",
     "third_alt_name": "Zwarte Peper Molen",
     "third_alt_brand": "Boni Selection",
-    "third_alt_content": "35 g"
+    "third_alt_content": "35 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 1168,
@@ -393,7 +414,8 @@
     "second_alt_content": "37 g",
     "third_alt_name": "Tijm",
     "third_alt_brand": "Silvo",
-    "third_alt_content": "15 g"
+    "third_alt_content": "15 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 1247,
@@ -411,7 +433,8 @@
     "second_alt_content": "5 g",
     "third_alt_name": "4-Seizoenenpeper Molen",
     "third_alt_brand": "Silvo",
-    "third_alt_content": "24 g"
+    "third_alt_content": "24 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 1902,
@@ -429,7 +452,8 @@
     "second_alt_content": "37 g",
     "third_alt_name": "Uienpoeder",
     "third_alt_brand": "Silvo",
-    "third_alt_content": "50 g"
+    "third_alt_content": "50 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 1906,
@@ -447,7 +471,8 @@
     "second_alt_content": "34 g",
     "third_alt_name": "Tijm",
     "third_alt_brand": "Silvo",
-    "third_alt_content": "15 g"
+    "third_alt_content": "15 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 1905,
@@ -465,7 +490,8 @@
     "second_alt_content": "37 g",
     "third_alt_name": "Kruidnagel Gemalen",
     "third_alt_brand": "Silvo",
-    "third_alt_content": "35 g"
+    "third_alt_content": "35 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 1747,
@@ -483,7 +509,8 @@
     "second_alt_content": "6 stuks",
     "third_alt_name": "Berry Delight",
     "third_alt_brand": "Nakd",
-    "third_alt_content": "4 stuks"
+    "third_alt_content": "4 stuks",
+    "matchAltNb": []
   },
   {
     "product_identity": 1164,
@@ -501,7 +528,8 @@
     "second_alt_content": "40 g",
     "third_alt_name": "Kruidnagel Gemalen",
     "third_alt_brand": "Silvo",
-    "third_alt_content": "35 g"
+    "third_alt_content": "35 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 1909,
@@ -519,7 +547,8 @@
     "second_alt_content": "40 g",
     "third_alt_name": "Dille",
     "third_alt_brand": "Silvo",
-    "third_alt_content": "12 g"
+    "third_alt_content": "12 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 1262,
@@ -537,7 +566,8 @@
     "second_alt_content": "40 g",
     "third_alt_name": "Knoflookpoeder",
     "third_alt_brand": "Silvo",
-    "third_alt_content": "55 g"
+    "third_alt_content": "55 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 522,
@@ -555,7 +585,8 @@
     "second_alt_content": "4 stuks",
     "third_alt_name": "Goed Bezig! Stevige Havermoutrepen Naturel",
     "third_alt_brand": "Bolletje",
-    "third_alt_content": "210 g"
+    "third_alt_content": "210 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 1431,
@@ -573,7 +604,8 @@
     "second_alt_content": "90 g",
     "third_alt_name": "Zout & Pepermix",
     "third_alt_brand": "Jozo",
-    "third_alt_content": "100 g"
+    "third_alt_content": "100 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 1607,
@@ -591,7 +623,8 @@
     "second_alt_content": "120 g",
     "third_alt_name": "Melbatoast Naturel",
     "third_alt_brand": "Van der Meulen",
-    "third_alt_content": "120 g"
+    "third_alt_content": "120 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 1270,
@@ -609,7 +642,8 @@
     "second_alt_content": "5 g",
     "third_alt_name": "Dille",
     "third_alt_brand": "Silvo",
-    "third_alt_content": "12 g"
+    "third_alt_content": "12 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 128,
@@ -627,7 +661,8 @@
     "second_alt_content": "115 g",
     "third_alt_name": "Superchips Paprika",
     "third_alt_brand": "Lay's",
-    "third_alt_content": "215 g"
+    "third_alt_content": "215 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 144,
@@ -645,7 +680,8 @@
     "second_alt_content": "185 g",
     "third_alt_name": "Heartbreakers",
     "third_alt_brand": "Chio",
-    "third_alt_content": "125 g"
+    "third_alt_content": "125 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 392,
@@ -663,7 +699,8 @@
     "second_alt_content": "125 g",
     "third_alt_name": "Grills",
     "third_alt_brand": "Lay's",
-    "third_alt_content": "125 g"
+    "third_alt_content": "125 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 28,
@@ -681,7 +718,8 @@
     "second_alt_content": "115 g",
     "third_alt_name": "Chips Naturel",
     "third_alt_brand": "Lay's",
-    "third_alt_content": "225 g"
+    "third_alt_content": "225 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 185,
@@ -699,7 +737,8 @@
     "second_alt_content": "225 g",
     "third_alt_name": "Wokkels Naturel",
     "third_alt_brand": "Lay's",
-    "third_alt_content": "115 g"
+    "third_alt_content": "115 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 528,
@@ -717,7 +756,8 @@
     "second_alt_content": "170 g",
     "third_alt_name": "Wokkels Naturel",
     "third_alt_brand": "Lay's",
-    "third_alt_content": "115 g"
+    "third_alt_content": "115 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 263,
@@ -735,7 +775,8 @@
     "second_alt_content": "225 g",
     "third_alt_name": "Bugles Naturel",
     "third_alt_brand": "Lay's",
-    "third_alt_content": "115 g"
+    "third_alt_content": "115 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 408,
@@ -753,7 +794,8 @@
     "second_alt_content": "125 g",
     "third_alt_name": "Grills",
     "third_alt_brand": "Lay's",
-    "third_alt_content": "125 g"
+    "third_alt_content": "125 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 8,
@@ -771,7 +813,8 @@
     "second_alt_content": "115 g",
     "third_alt_name": "Nacho Cheese",
     "third_alt_brand": "Doritos",
-    "third_alt_content": "185 g"
+    "third_alt_content": "185 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 1292,
@@ -789,7 +832,8 @@
     "second_alt_content": "335 g",
     "third_alt_name": "Chips Paprika Partypack",
     "third_alt_brand": "Lay's",
-    "third_alt_content": "335 g"
+    "third_alt_content": "335 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 1202,
@@ -807,7 +851,8 @@
     "second_alt_content": "125 g",
     "third_alt_name": "Chips Naturel",
     "third_alt_brand": "Lay's",
-    "third_alt_content": "225 g"
+    "third_alt_content": "225 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 379,
@@ -825,7 +870,8 @@
     "second_alt_content": "110 g",
     "third_alt_name": "Nacho Cheese",
     "third_alt_brand": "Doritos",
-    "third_alt_content": "185 g"
+    "third_alt_content": "185 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 1038,
@@ -843,7 +889,8 @@
     "second_alt_content": "1000 mL",
     "third_alt_name": "Soya Ongezoet",
     "third_alt_brand": "Alpro",
-    "third_alt_content": "1000 mL"
+    "third_alt_content": "1000 mL",
+    "matchAltNb": []
   },
   {
     "product_identity": 919,
@@ -861,7 +908,8 @@
     "second_alt_content": "5 x 50 g",
     "third_alt_name": "Kruidkoek Naturel",
     "third_alt_brand": "Snelle Jelle",
-    "third_alt_content": "5 stuks"
+    "third_alt_content": "5 stuks",
+    "matchAltNb": []
   },
   {
     "product_identity": 371,
@@ -879,7 +927,8 @@
     "second_alt_content": "165 g",
     "third_alt_name": "Sour Cream & Onion",
     "third_alt_brand": "Pringles",
-    "third_alt_content": "165 g"
+    "third_alt_content": "165 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 36,
@@ -897,7 +946,8 @@
     "second_alt_content": "165 g",
     "third_alt_name": "Hot & Spicy",
     "third_alt_brand": "Pringles",
-    "third_alt_content": "165 g"
+    "third_alt_content": "165 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 1944,
@@ -915,7 +965,8 @@
     "second_alt_content": "150 g",
     "third_alt_name": "Pinda's Ongezouten",
     "third_alt_brand": "Duyvis",
-    "third_alt_content": "235 g"
+    "third_alt_content": "235 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 48,
@@ -933,7 +984,8 @@
     "second_alt_content": "185 g",
     "third_alt_name": "Superchips Paprika",
     "third_alt_brand": "Lay's",
-    "third_alt_content": "215 g"
+    "third_alt_content": "215 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 1945,
@@ -951,7 +1003,8 @@
     "second_alt_content": "6 x 50 g",
     "third_alt_name": "Pinda's Gezouten",
     "third_alt_brand": "Duyvis",
-    "third_alt_content": "235 g"
+    "third_alt_content": "235 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 1532,
@@ -969,7 +1022,8 @@
     "second_alt_content": "95 g",
     "third_alt_name": "Chips Sea Salt & Balsamic Vinegar",
     "third_alt_brand": "Kettle",
-    "third_alt_content": "150 g"
+    "third_alt_content": "150 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 99,
@@ -987,7 +1041,8 @@
     "second_alt_content": "165 g",
     "third_alt_name": "Paprika",
     "third_alt_brand": "Pringles",
-    "third_alt_content": "165 g"
+    "third_alt_content": "165 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 1267,
@@ -1005,7 +1060,8 @@
     "second_alt_content": "4 stuks",
     "third_alt_name": "Cashew Cookie",
     "third_alt_brand": "Nakd",
-    "third_alt_content": "4 stuks"
+    "third_alt_content": "4 stuks",
+    "matchAltNb": []
   },
   {
     "product_identity": 1934,
@@ -1023,7 +1079,8 @@
     "second_alt_content": "1000 mL",
     "third_alt_name": "Sojayoghurt Kers",
     "third_alt_brand": "Alpro",
-    "third_alt_content": "500 g"
+    "third_alt_content": "500 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 9044,
@@ -1041,7 +1098,8 @@
     "second_alt_content": "150 g",
     "third_alt_name": "Mini Crackers Tomato, Onion & Chili",
     "third_alt_brand": "Boni Selection",
-    "third_alt_content": "125 g"
+    "third_alt_content": "125 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 9041,
@@ -1059,7 +1117,8 @@
     "second_alt_content": "125 g",
     "third_alt_name": "Crackers Met Olijven",
     "third_alt_brand": "Boni Selection",
-    "third_alt_content": "150 g"
+    "third_alt_content": "150 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 9042,
@@ -1077,7 +1136,8 @@
     "second_alt_content": "75 g",
     "third_alt_name": "Crackers Met Olijven",
     "third_alt_brand": "Boni Selection",
-    "third_alt_content": "150 g"
+    "third_alt_content": "150 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 9340,
@@ -1095,7 +1155,8 @@
     "second_alt_content": "200 g",
     "third_alt_name": "Notenmix Ongezouten",
     "third_alt_brand": "Boni Selection",
-    "third_alt_content": "350 g"
+    "third_alt_content": "350 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 9337,
@@ -1113,7 +1174,8 @@
     "second_alt_content": "200 g",
     "third_alt_name": "Notenmix Ongezouten",
     "third_alt_brand": "Boni Selection",
-    "third_alt_content": "350 g"
+    "third_alt_content": "350 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 9341,
@@ -1131,7 +1193,8 @@
     "second_alt_content": "250 g",
     "third_alt_name": "Paranoten Ongezouten",
     "third_alt_brand": "Boni Selection",
-    "third_alt_content": "250 g"
+    "third_alt_content": "250 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 9350,
@@ -1149,7 +1212,8 @@
     "second_alt_content": "250 g",
     "third_alt_name": "Pinda's Gezouten",
     "third_alt_brand": "Boni Selection",
-    "third_alt_content": "500 g"
+    "third_alt_content": "500 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 9338,
@@ -1167,7 +1231,8 @@
     "second_alt_content": "200 g",
     "third_alt_name": "Notenmix Ongezouten",
     "third_alt_brand": "Boni Selection",
-    "third_alt_content": "350 g"
+    "third_alt_content": "350 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 9342,
@@ -1185,7 +1250,8 @@
     "second_alt_content": "250 g",
     "third_alt_name": "Macadamianoten",
     "third_alt_brand": "Boni Selection",
-    "third_alt_content": "250 g"
+    "third_alt_content": "250 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 9247,
@@ -1203,7 +1269,8 @@
     "second_alt_content": "125 g",
     "third_alt_name": "Chips Peper & Zout",
     "third_alt_brand": "Boni Selection",
-    "third_alt_content": "125 g"
+    "third_alt_content": "125 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 9099,
@@ -1221,7 +1288,8 @@
     "second_alt_content": "125 g",
     "third_alt_name": "Smokey Ribs",
     "third_alt_brand": "Boni Selection",
-    "third_alt_content": "125 g"
+    "third_alt_content": "125 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 9097,
@@ -1239,7 +1307,8 @@
     "second_alt_content": "75 g",
     "third_alt_name": "Minitoast",
     "third_alt_brand": "Boni Selection",
-    "third_alt_content": "120 g"
+    "third_alt_content": "120 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 9343,
@@ -1257,7 +1326,8 @@
     "second_alt_content": "250 g",
     "third_alt_name": "Cashewnoten Ongezouten",
     "third_alt_brand": "Boni Selection",
-    "third_alt_content": "250 g"
+    "third_alt_content": "250 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 9347,
@@ -1275,7 +1345,8 @@
     "second_alt_content": "250 g",
     "third_alt_name": "Notenmix Ongezouten",
     "third_alt_brand": "Boni Selection",
-    "third_alt_content": "350 g"
+    "third_alt_content": "350 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 9171,
@@ -1293,7 +1364,8 @@
     "second_alt_content": "170 g",
     "third_alt_name": "Crisps Chips Paprika",
     "third_alt_brand": "Boni Selection",
-    "third_alt_content": "170 g"
+    "third_alt_content": "170 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 9348,
@@ -1311,7 +1383,8 @@
     "second_alt_content": "200 g",
     "third_alt_name": "Paranoten Ongezouten",
     "third_alt_brand": "Boni Selection",
-    "third_alt_content": "250 g"
+    "third_alt_content": "250 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 9269,
@@ -1329,7 +1402,8 @@
     "second_alt_content": "200 g",
     "third_alt_name": "Hazelnoten Ongezouten",
     "third_alt_brand": "Boni Selection",
-    "third_alt_content": "250 g"
+    "third_alt_content": "250 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 9252,
@@ -1347,7 +1421,8 @@
     "second_alt_content": "500 g",
     "third_alt_name": "Pistachenoten Gezouten",
     "third_alt_brand": "Boni Selection",
-    "third_alt_content": "250 g"
+    "third_alt_content": "250 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 9268,
@@ -1360,12 +1435,13 @@
     "first_alt_name": "Borrelnootjes Poesta",
     "first_alt_brand": "Duyvis",
     "first_alt_content": "300 g",
-    "second_alt_name": "Borrelnootjes Proven\u00e7ale",
+    "second_alt_name": "Borrelnootjes Provençale",
     "second_alt_brand": "Duyvis",
     "second_alt_content": "300 g",
     "third_alt_name": "Borrelnootjes Oriental",
     "third_alt_brand": "Duyvis",
-    "third_alt_content": "300 g"
+    "third_alt_content": "300 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 9267,
@@ -1383,7 +1459,8 @@
     "second_alt_content": "170 g",
     "third_alt_name": "Chips Peper & Zout",
     "third_alt_brand": "Boni Selection",
-    "third_alt_content": "125 g"
+    "third_alt_content": "125 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 9351,
@@ -1401,7 +1478,8 @@
     "second_alt_content": "200 g",
     "third_alt_name": "Hazelnoten Ongezouten",
     "third_alt_brand": "Boni Selection",
-    "third_alt_content": "250 g"
+    "third_alt_content": "250 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 9363,
@@ -1419,7 +1497,8 @@
     "second_alt_content": "170 g",
     "third_alt_name": "Tortilla Chips Chili",
     "third_alt_brand": "Boni Selection",
-    "third_alt_content": "200 g"
+    "third_alt_content": "200 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 9365,
@@ -1437,7 +1516,8 @@
     "second_alt_content": "125 g",
     "third_alt_name": "Crisps Chips Zout",
     "third_alt_brand": "Boni Selection",
-    "third_alt_content": "170 g"
+    "third_alt_content": "170 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 9364,
@@ -1455,7 +1535,8 @@
     "second_alt_content": "170 g",
     "third_alt_name": "Chips Rozemarijn",
     "third_alt_brand": "Boni Selection",
-    "third_alt_content": "125 g"
+    "third_alt_content": "125 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 9336,
@@ -1473,7 +1554,8 @@
     "second_alt_content": "200 g",
     "third_alt_name": "Cashewnoten Gezouten",
     "third_alt_brand": "Boni Selection",
-    "third_alt_content": "200 g"
+    "third_alt_content": "200 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 9353,
@@ -1491,7 +1573,8 @@
     "second_alt_content": "350 g",
     "third_alt_name": "Fruit- En Notenmix To Go",
     "third_alt_brand": "Boni Selection",
-    "third_alt_content": "6 x 50 g"
+    "third_alt_content": "6 x 50 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 9352,
@@ -1509,7 +1592,8 @@
     "second_alt_content": "200 g",
     "third_alt_name": "Pistachenoten Gezouten",
     "third_alt_brand": "Boni Selection",
-    "third_alt_content": "250 g"
+    "third_alt_content": "250 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 1752,
@@ -1527,7 +1611,8 @@
     "second_alt_content": "4 stuks",
     "third_alt_name": "Pecan Pie",
     "third_alt_brand": "Nakd",
-    "third_alt_content": "4 stuks"
+    "third_alt_content": "4 stuks",
+    "matchAltNb": []
   },
   {
     "product_identity": 1751,
@@ -1545,7 +1630,8 @@
     "second_alt_content": "4 stuks",
     "third_alt_name": "Bugbars Date-Choco-Orange",
     "third_alt_brand": "Goodlife",
-    "third_alt_content": "40 g"
+    "third_alt_content": "40 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 9213,
@@ -1563,7 +1649,8 @@
     "second_alt_content": "120 g",
     "third_alt_name": "Melba Toast Rond",
     "third_alt_brand": "Boni Selection",
-    "third_alt_content": "2 x 22 stuks"
+    "third_alt_content": "2 x 22 stuks",
+    "matchAltNb": []
   },
   {
     "product_identity": 9224,
@@ -1581,7 +1668,8 @@
     "second_alt_content": "6 x 19 g",
     "third_alt_name": "Oerkoek Choco-Chip & Granen Bio",
     "third_alt_brand": "Leev",
-    "third_alt_content": "4 stuks"
+    "third_alt_content": "4 stuks",
+    "matchAltNb": []
   },
   {
     "product_identity": 9121,
@@ -1597,9 +1685,10 @@
     "second_alt_name": "Golden Rozijnen",
     "second_alt_brand": "Boni Selection",
     "second_alt_content": "6 x 42 g",
-    "third_alt_name": "Hawa\u00efmix",
+    "third_alt_name": "Hawaïmix",
     "third_alt_brand": "Boni Selection",
-    "third_alt_content": "200 g"
+    "third_alt_content": "200 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 9120,
@@ -1617,7 +1706,8 @@
     "second_alt_content": "6 x 42 g",
     "third_alt_name": "Bananenchips",
     "third_alt_brand": "Boni Selection",
-    "third_alt_content": "150 g"
+    "third_alt_content": "150 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 9339,
@@ -1633,9 +1723,10 @@
     "second_alt_name": "Rozijnen",
     "second_alt_brand": "Boni Selection",
     "second_alt_content": "250 g",
-    "third_alt_name": "Hawa\u00efmix",
+    "third_alt_name": "Hawaïmix",
     "third_alt_brand": "Boni Selection",
-    "third_alt_content": "200 g"
+    "third_alt_content": "200 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 9344,
@@ -1653,7 +1744,8 @@
     "second_alt_content": "400 g",
     "third_alt_name": "Gojibessen",
     "third_alt_brand": "Boni Selection",
-    "third_alt_content": "140 g"
+    "third_alt_content": "140 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 9272,
@@ -1671,7 +1763,8 @@
     "second_alt_content": "5 x 3 stuks",
     "third_alt_name": "Fruitbiscuit Naturel",
     "third_alt_brand": "Sultana",
-    "third_alt_content": "5 x 3 stuks"
+    "third_alt_content": "5 x 3 stuks",
+    "matchAltNb": []
   },
   {
     "product_identity": 9345,
@@ -1687,9 +1780,10 @@
     "second_alt_name": "Gedroogde Vijgen Gezoet",
     "second_alt_brand": "Boni Selection",
     "second_alt_content": "400 g",
-    "third_alt_name": "Hawa\u00efmix",
+    "third_alt_name": "Hawaïmix",
     "third_alt_brand": "Boni Selection",
-    "third_alt_content": "200 g"
+    "third_alt_content": "200 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 9366,
@@ -1705,9 +1799,10 @@
     "second_alt_name": "Blanke Rozijnen",
     "second_alt_brand": "Boni Selection",
     "second_alt_content": "250 g",
-    "third_alt_name": "Hawa\u00efmix",
+    "third_alt_name": "Hawaïmix",
     "third_alt_brand": "Boni Selection",
-    "third_alt_content": "200 g"
+    "third_alt_content": "200 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 9177,
@@ -1725,7 +1820,8 @@
     "second_alt_content": "55 g",
     "third_alt_name": "Gemalen Witte Peper Bio",
     "third_alt_brand": "Boni Bio",
-    "third_alt_content": "50 g"
+    "third_alt_content": "50 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 9176,
@@ -1743,7 +1839,8 @@
     "second_alt_content": "70 g",
     "third_alt_name": "Witte Peper Molen",
     "third_alt_brand": "Boni Selection",
-    "third_alt_content": "50 g"
+    "third_alt_content": "50 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 9178,
@@ -1759,9 +1856,10 @@
     "second_alt_name": "Kerriepoeder",
     "second_alt_brand": "Boni Selection",
     "second_alt_content": "40 g",
-    "third_alt_name": "Proven\u00e7aalse Kruiden Bio",
+    "third_alt_name": "Provençaalse Kruiden Bio",
     "third_alt_brand": "Boni Bio",
-    "third_alt_content": "15 g"
+    "third_alt_content": "15 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 9179,
@@ -1779,7 +1877,8 @@
     "second_alt_content": "50 g",
     "third_alt_name": "Spaghettikruiden Bio",
     "third_alt_brand": "Boni Bio",
-    "third_alt_content": "70 g"
+    "third_alt_content": "70 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 9180,
@@ -1797,7 +1896,8 @@
     "second_alt_content": "135 g",
     "third_alt_name": "Mix Voor Gehakt",
     "third_alt_brand": "Silvo",
-    "third_alt_content": "40 g"
+    "third_alt_content": "40 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 9181,
@@ -1815,11 +1915,12 @@
     "second_alt_content": "50 g",
     "third_alt_name": "Spaghettikruiden Bio",
     "third_alt_brand": "Boni Bio",
-    "third_alt_content": "70 g"
+    "third_alt_content": "70 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 9203,
-    "name": "Proven\u00e7aalse Kruiden Bio",
+    "name": "Provençaalse Kruiden Bio",
     "brand": "Boni Bio",
     "content_summary": "15 g",
     "first_alt_prod_id": 9178,
@@ -1833,7 +1934,8 @@
     "second_alt_content": "50 g",
     "third_alt_name": "Peterselie Bio",
     "third_alt_brand": "Boni Bio",
-    "third_alt_content": "8 g"
+    "third_alt_content": "8 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 9382,
@@ -1851,7 +1953,8 @@
     "second_alt_content": "1000 mL",
     "third_alt_name": "Amandeldrank Pak",
     "third_alt_brand": "Boni Selection",
-    "third_alt_content": "1000 mL"
+    "third_alt_content": "1000 mL",
+    "matchAltNb": []
   },
   {
     "product_identity": 9381,
@@ -1869,7 +1972,8 @@
     "second_alt_content": "1000 mL",
     "third_alt_name": "Sojayoghurt Vanille",
     "third_alt_brand": "Alpro",
-    "third_alt_content": "500 g"
+    "third_alt_content": "500 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 9062,
@@ -1887,7 +1991,8 @@
     "second_alt_content": "1000 mL",
     "third_alt_name": "Amandeldrank Pak",
     "third_alt_brand": "Boni Selection",
-    "third_alt_content": "1000 mL"
+    "third_alt_content": "1000 mL",
+    "matchAltNb": []
   },
   {
     "product_identity": 1440,
@@ -1905,7 +2010,8 @@
     "second_alt_content": "40 g",
     "third_alt_name": "Tijm",
     "third_alt_brand": "Silvo",
-    "third_alt_content": "15 g"
+    "third_alt_content": "15 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 568,
@@ -1923,7 +2029,8 @@
     "second_alt_content": "15 g",
     "third_alt_name": "Dille",
     "third_alt_brand": "Silvo",
-    "third_alt_content": "12 g"
+    "third_alt_content": "12 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 966,
@@ -1941,7 +2048,8 @@
     "second_alt_content": "40 g",
     "third_alt_name": "Mix Voor Kip Strooibus",
     "third_alt_brand": "Silvo",
-    "third_alt_content": "135 g"
+    "third_alt_content": "135 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 1170,
@@ -1959,7 +2067,8 @@
     "second_alt_content": "40 g",
     "third_alt_name": "Mix Voor Gehakt Bretons",
     "third_alt_brand": "Silvo",
-    "third_alt_content": "40 g"
+    "third_alt_content": "40 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 1447,
@@ -1977,7 +2086,8 @@
     "second_alt_content": "40 g",
     "third_alt_name": "Mix Voor Gehakt Italiaans",
     "third_alt_brand": "Silvo",
-    "third_alt_content": "40 g"
+    "third_alt_content": "40 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 1609,
@@ -1995,7 +2105,8 @@
     "second_alt_content": "120 g",
     "third_alt_name": "Melbatoast Volkoren",
     "third_alt_brand": "Van der Meulen",
-    "third_alt_content": "120 g"
+    "third_alt_content": "120 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 1352,
@@ -2013,7 +2124,8 @@
     "second_alt_content": "1000 mL",
     "third_alt_name": "Haverdrink Ongezoet ",
     "third_alt_brand": "Alpro",
-    "third_alt_content": "1000 mL"
+    "third_alt_content": "1000 mL",
+    "matchAltNb": []
   },
   {
     "product_identity": 1610,
@@ -2031,7 +2143,8 @@
     "second_alt_content": "4 stuks",
     "third_alt_name": "Berry Delight",
     "third_alt_brand": "Nakd",
-    "third_alt_content": "4 stuks"
+    "third_alt_content": "4 stuks",
+    "matchAltNb": []
   },
   {
     "product_identity": 1755,
@@ -2049,7 +2162,8 @@
     "second_alt_content": "3 stuks",
     "third_alt_name": "Pinda Crunch Reep Bio",
     "third_alt_brand": "Zonnatura",
-    "third_alt_content": "3 stuks"
+    "third_alt_content": "3 stuks",
+    "matchAltNb": []
   },
   {
     "product_identity": 240,
@@ -2067,7 +2181,8 @@
     "second_alt_content": "175 g",
     "third_alt_name": "Chips Naturel",
     "third_alt_brand": "Croky",
-    "third_alt_content": "175 g"
+    "third_alt_content": "175 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 201,
@@ -2085,7 +2200,8 @@
     "second_alt_content": "5 stuks",
     "third_alt_name": "Kruidkoek Tussendoor",
     "third_alt_brand": "Snelle Jelle",
-    "third_alt_content": "6 stuks"
+    "third_alt_content": "6 stuks",
+    "matchAltNb": []
   },
   {
     "product_identity": 156,
@@ -2101,9 +2217,10 @@
     "second_alt_name": "Borrelnootjes Oriental",
     "second_alt_brand": "Duyvis",
     "second_alt_content": "300 g",
-    "third_alt_name": "Borrelnootjes Proven\u00e7ale",
+    "third_alt_name": "Borrelnootjes Provençale",
     "third_alt_brand": "Duyvis",
-    "third_alt_content": "300 g"
+    "third_alt_content": "300 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 161,
@@ -2121,7 +2238,8 @@
     "second_alt_content": "95 g",
     "third_alt_name": "Chips Cheese Onion",
     "third_alt_brand": "Lay's",
-    "third_alt_content": "225 g"
+    "third_alt_content": "225 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 1034,
@@ -2139,7 +2257,8 @@
     "second_alt_content": "235 g",
     "third_alt_name": "Pinda's Gezouten",
     "third_alt_brand": "Boni Selection",
-    "third_alt_content": "500 g"
+    "third_alt_content": "500 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 504,
@@ -2157,7 +2276,8 @@
     "second_alt_content": "250 g",
     "third_alt_name": "Evergreen Krenten XL",
     "third_alt_brand": "Liga",
-    "third_alt_content": "9 x 2 stuks"
+    "third_alt_content": "9 x 2 stuks",
+    "matchAltNb": []
   },
   {
     "product_identity": 1051,
@@ -2175,7 +2295,8 @@
     "second_alt_content": "125 g",
     "third_alt_name": "Oven Roasted Peanuts Original",
     "third_alt_brand": "Duyvis",
-    "third_alt_content": "225 g"
+    "third_alt_content": "225 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 534,
@@ -2188,12 +2309,13 @@
     "first_alt_name": "Borrelnootjes Poesta",
     "first_alt_brand": "Duyvis",
     "first_alt_content": "300 g",
-    "second_alt_name": "Borrelnootjes Proven\u00e7ale",
+    "second_alt_name": "Borrelnootjes Provençale",
     "second_alt_brand": "Duyvis",
     "second_alt_content": "300 g",
     "third_alt_name": "Borrelnootjes Cocktail",
     "third_alt_brand": "Duyvis",
-    "third_alt_content": "300 g"
+    "third_alt_content": "300 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 106,
@@ -2211,7 +2333,8 @@
     "second_alt_content": "95 g",
     "third_alt_name": "Chips Peper & Zout",
     "third_alt_brand": "Boni Selection",
-    "third_alt_content": "125 g"
+    "third_alt_content": "125 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 1969,
@@ -2229,7 +2352,8 @@
     "second_alt_content": "88 g",
     "third_alt_name": "Mix Voor Gehakt Uitjes",
     "third_alt_brand": "Silvo",
-    "third_alt_content": "40 g"
+    "third_alt_content": "40 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 1666,
@@ -2247,7 +2371,8 @@
     "second_alt_content": "150 g",
     "third_alt_name": "Chips Paprika",
     "third_alt_brand": "Lay's",
-    "third_alt_content": "225 g"
+    "third_alt_content": "225 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 182,
@@ -2265,7 +2390,8 @@
     "second_alt_content": "6 stuks",
     "third_alt_name": "Kruidkoek Rozijnen",
     "third_alt_brand": "Snelle Jelle",
-    "third_alt_content": "5 stuks"
+    "third_alt_content": "5 stuks",
+    "matchAltNb": []
   },
   {
     "product_identity": 1581,
@@ -2283,7 +2409,8 @@
     "second_alt_content": "5 stuks",
     "third_alt_name": "Mueslireep Chocolade",
     "third_alt_brand": "Boni Selection",
-    "third_alt_content": "8 stuks"
+    "third_alt_content": "8 stuks",
+    "matchAltNb": []
   },
   {
     "product_identity": 1911,
@@ -2301,7 +2428,8 @@
     "second_alt_content": "10 stuks",
     "third_alt_name": "Condooms Extra Safe",
     "third_alt_brand": "Durex",
-    "third_alt_content": "12 stuks"
+    "third_alt_content": "12 stuks",
+    "matchAltNb": []
   },
   {
     "product_identity": 614,
@@ -2319,7 +2447,8 @@
     "second_alt_content": "5 x 3 stuks",
     "third_alt_name": "Fruitbiscuits Bosvruchten",
     "third_alt_brand": "Sultana",
-    "third_alt_content": "5 x 3 stuks"
+    "third_alt_content": "5 x 3 stuks",
+    "matchAltNb": []
   },
   {
     "product_identity": 272,
@@ -2337,7 +2466,8 @@
     "second_alt_content": "125 g",
     "third_alt_name": "Oven Roasted Cashews Original",
     "third_alt_brand": "Duyvis",
-    "third_alt_content": "125 g"
+    "third_alt_content": "125 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 1351,
@@ -2355,7 +2485,8 @@
     "second_alt_content": "250 mL",
     "third_alt_name": "Soya Ongezoet",
     "third_alt_brand": "Alpro",
-    "third_alt_content": "1000 mL"
+    "third_alt_content": "1000 mL",
+    "matchAltNb": []
   },
   {
     "product_identity": 352,
@@ -2373,7 +2504,8 @@
     "second_alt_content": "171 g",
     "third_alt_name": "Fruitbiscuit Peer Kaneel",
     "third_alt_brand": "Sultana",
-    "third_alt_content": "5 x 3 stuks"
+    "third_alt_content": "5 x 3 stuks",
+    "matchAltNb": []
   },
   {
     "product_identity": 14,
@@ -2391,7 +2523,8 @@
     "second_alt_content": "205 g",
     "third_alt_name": "Chips Cheese Onion",
     "third_alt_brand": "Lay's",
-    "third_alt_content": "225 g"
+    "third_alt_content": "225 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 277,
@@ -2409,7 +2542,8 @@
     "second_alt_content": "95 g",
     "third_alt_name": "Sensations Chips Red Sweet Paprika",
     "third_alt_brand": "Lay's",
-    "third_alt_content": "150 g"
+    "third_alt_content": "150 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 53,
@@ -2427,7 +2561,8 @@
     "second_alt_content": "125 g",
     "third_alt_name": "Chipito Kaas",
     "third_alt_brand": "Cheetos",
-    "third_alt_content": "110 g"
+    "third_alt_content": "110 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 345,
@@ -2445,7 +2580,8 @@
     "second_alt_content": "5 x 3 stuks",
     "third_alt_name": "Fruitbiscuit Naturel",
     "third_alt_brand": "Sultana",
-    "third_alt_content": "5 x 3 stuks"
+    "third_alt_content": "5 x 3 stuks",
+    "matchAltNb": []
   },
   {
     "product_identity": 328,
@@ -2463,7 +2599,8 @@
     "second_alt_content": "250 g",
     "third_alt_name": "Minitoast",
     "third_alt_brand": "Boni Selection",
-    "third_alt_content": "120 g"
+    "third_alt_content": "120 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 4,
@@ -2481,7 +2618,8 @@
     "second_alt_content": "175 g",
     "third_alt_name": "Wokkels Paprika",
     "third_alt_brand": "Lay's",
-    "third_alt_content": "115 g"
+    "third_alt_content": "115 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 311,
@@ -2499,7 +2637,8 @@
     "second_alt_content": "215 g",
     "third_alt_name": "Wokkels Paprika",
     "third_alt_brand": "Lay's",
-    "third_alt_content": "115 g"
+    "third_alt_content": "115 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 754,
@@ -2517,7 +2656,8 @@
     "second_alt_content": "130 g",
     "third_alt_name": "Melbatoast Rond",
     "third_alt_brand": "Van der Meulen",
-    "third_alt_content": "110 g"
+    "third_alt_content": "110 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 190,
@@ -2535,7 +2675,8 @@
     "second_alt_content": "250 g",
     "third_alt_name": "Evergreen Bosvruchten",
     "third_alt_brand": "Liga",
-    "third_alt_content": "250 g"
+    "third_alt_content": "250 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 629,
@@ -2553,7 +2694,8 @@
     "second_alt_content": "225 g",
     "third_alt_name": "Evergreen Krenten XL",
     "third_alt_brand": "Liga",
-    "third_alt_content": "9 x 2 stuks"
+    "third_alt_content": "9 x 2 stuks",
+    "matchAltNb": []
   },
   {
     "product_identity": 1914,
@@ -2571,7 +2713,8 @@
     "second_alt_content": "12 stuks",
     "third_alt_name": "Condooms Real Feeling",
     "third_alt_brand": "Durex",
-    "third_alt_content": "10 stuks"
+    "third_alt_content": "10 stuks",
+    "matchAltNb": []
   },
   {
     "product_identity": 672,
@@ -2589,11 +2732,12 @@
     "second_alt_content": "200 g",
     "third_alt_name": "Toast 'N Chips Knoflook",
     "third_alt_brand": "Haust",
-    "third_alt_content": "125 g"
+    "third_alt_content": "125 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 119,
-    "name": "Borrelnootjes Proven\u00e7ale",
+    "name": "Borrelnootjes Provençale",
     "brand": "Duyvis",
     "content_summary": "300 g",
     "first_alt_prod_id": 534,
@@ -2607,7 +2751,8 @@
     "second_alt_content": "300 g",
     "third_alt_name": "Oven Roasted Borrelnootjes Onion & Herbs",
     "third_alt_brand": "Duyvis",
-    "third_alt_content": "200 g"
+    "third_alt_content": "200 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 1915,
@@ -2625,7 +2770,8 @@
     "second_alt_content": "10 stuks",
     "third_alt_name": "Condooms XL Power",
     "third_alt_brand": "Durex",
-    "third_alt_content": "12 stuks"
+    "third_alt_content": "12 stuks",
+    "matchAltNb": []
   },
   {
     "product_identity": 1756,
@@ -2643,7 +2789,8 @@
     "second_alt_content": "3 x 25 g",
     "third_alt_name": "Notenreep Amandel Bio",
     "third_alt_brand": "Zonnatura",
-    "third_alt_content": "3 stuks"
+    "third_alt_content": "3 stuks",
+    "matchAltNb": []
   },
   {
     "product_identity": 1204,
@@ -2661,7 +2808,8 @@
     "second_alt_content": "225 g",
     "third_alt_name": "Unsalted Almonds",
     "third_alt_brand": "Duyvis",
-    "third_alt_content": "125 g"
+    "third_alt_content": "125 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 1916,
@@ -2679,7 +2827,8 @@
     "second_alt_content": "12 stuks",
     "third_alt_name": "Condooms Real Feeling",
     "third_alt_brand": "Durex",
-    "third_alt_content": "10 stuks"
+    "third_alt_content": "10 stuks",
+    "matchAltNb": []
   },
   {
     "product_identity": 1350,
@@ -2697,7 +2846,8 @@
     "second_alt_content": "1000 mL",
     "third_alt_name": "Soya Light",
     "third_alt_brand": "Alpro",
-    "third_alt_content": "1000 mL"
+    "third_alt_content": "1000 mL",
+    "matchAltNb": []
   },
   {
     "product_identity": 16,
@@ -2715,7 +2865,8 @@
     "second_alt_content": "225 g",
     "third_alt_name": "Superchips Paprika",
     "third_alt_brand": "Lay's",
-    "third_alt_content": "215 g"
+    "third_alt_content": "215 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 1611,
@@ -2733,7 +2884,8 @@
     "second_alt_content": "4 stuks",
     "third_alt_name": "Assorti Box 5 Smaken ",
     "third_alt_brand": "Nakd",
-    "third_alt_content": "10 stuks"
+    "third_alt_content": "10 stuks",
+    "matchAltNb": []
   },
   {
     "product_identity": 1095,
@@ -2751,7 +2903,8 @@
     "second_alt_content": "110 g",
     "third_alt_name": "Melbatoast Sesam",
     "third_alt_brand": "Van der Meulen",
-    "third_alt_content": "120 g"
+    "third_alt_content": "120 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 1606,
@@ -2769,7 +2922,8 @@
     "second_alt_content": "110 g",
     "third_alt_name": "Melbatoast Volkoren",
     "third_alt_brand": "Van der Meulen",
-    "third_alt_content": "120 g"
+    "third_alt_content": "120 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 333,
@@ -2782,12 +2936,13 @@
     "first_alt_name": "Borrelnootjes Oriental",
     "first_alt_brand": "Duyvis",
     "first_alt_content": "300 g",
-    "second_alt_name": "Borrelnootjes Proven\u00e7ale",
+    "second_alt_name": "Borrelnootjes Provençale",
     "second_alt_brand": "Duyvis",
     "second_alt_content": "300 g",
     "third_alt_name": "Borrelnootjes Cocktail",
     "third_alt_brand": "Duyvis",
-    "third_alt_content": "300 g"
+    "third_alt_content": "300 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 1419,
@@ -2805,7 +2960,8 @@
     "second_alt_content": "3 stuks",
     "third_alt_name": "Notenreep Amandel Bio",
     "third_alt_brand": "Zonnatura",
-    "third_alt_content": "3 stuks"
+    "third_alt_content": "3 stuks",
+    "matchAltNb": []
   },
   {
     "product_identity": 107,
@@ -2823,7 +2979,8 @@
     "second_alt_content": "185 g",
     "third_alt_name": "Sweet Chilli Pepper",
     "third_alt_brand": "Doritos",
-    "third_alt_content": "185 g"
+    "third_alt_content": "185 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 89,
@@ -2841,7 +2998,8 @@
     "second_alt_content": "125 g",
     "third_alt_name": "Oven Roasted Almonds Original",
     "third_alt_brand": "Duyvis",
-    "third_alt_content": "125 g"
+    "third_alt_content": "125 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 157,
@@ -2859,7 +3017,8 @@
     "second_alt_content": "125 g",
     "third_alt_name": "Crackers Met Olijven",
     "third_alt_brand": "Boni Selection",
-    "third_alt_content": "150 g"
+    "third_alt_content": "150 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 473,
@@ -2877,7 +3036,8 @@
     "second_alt_content": "1000 mL",
     "third_alt_name": "Haverdrink Ongezoet ",
     "third_alt_brand": "Alpro",
-    "third_alt_content": "1000 mL"
+    "third_alt_content": "1000 mL",
+    "matchAltNb": []
   },
   {
     "product_identity": 1933,
@@ -2895,7 +3055,8 @@
     "second_alt_content": "5 x 3 stuks",
     "third_alt_name": "Fruitbiscuit Appel",
     "third_alt_brand": "Sultana",
-    "third_alt_content": "5 x 3 stuks"
+    "third_alt_content": "5 x 3 stuks",
+    "matchAltNb": []
   },
   {
     "product_identity": 92,
@@ -2913,7 +3074,8 @@
     "second_alt_content": "225 g",
     "third_alt_name": "Chips Naturel",
     "third_alt_brand": "Croky",
-    "third_alt_content": "175 g"
+    "third_alt_content": "175 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 1421,
@@ -2931,7 +3093,8 @@
     "second_alt_content": "3 stuks",
     "third_alt_name": "Notenreep Amandel Bio",
     "third_alt_brand": "Zonnatura",
-    "third_alt_content": "3 stuks"
+    "third_alt_content": "3 stuks",
+    "matchAltNb": []
   },
   {
     "product_identity": 159,
@@ -2944,12 +3107,13 @@
     "first_alt_name": "Tijgernootjes BBQ Paprika Smaak",
     "first_alt_brand": "Duyvis",
     "first_alt_content": "300 g",
-    "second_alt_name": "Tijgernootjes Paprika Fi\u00ebsta Smaak",
+    "second_alt_name": "Tijgernootjes Paprika Fiësta Smaak",
     "second_alt_brand": "Duyvis",
     "second_alt_content": "300 g",
     "third_alt_name": "Walnoten Bio",
     "third_alt_brand": "Smaakt",
-    "third_alt_content": "150 g"
+    "third_alt_content": "150 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 1420,
@@ -2967,7 +3131,8 @@
     "second_alt_content": "3 stuks",
     "third_alt_name": "Cocoa Orange",
     "third_alt_brand": "Nakd",
-    "third_alt_content": "4 stuks"
+    "third_alt_content": "4 stuks",
+    "matchAltNb": []
   },
   {
     "product_identity": 1181,
@@ -2985,7 +3150,8 @@
     "second_alt_content": "70 g",
     "third_alt_name": "Grof Zeezout Molen",
     "third_alt_brand": "Boni Selection",
-    "third_alt_content": "90 g"
+    "third_alt_content": "90 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 1354,
@@ -3003,7 +3169,8 @@
     "second_alt_content": "250 mL",
     "third_alt_name": "Kokosnootdrink Rijst",
     "third_alt_brand": "Alpro",
-    "third_alt_content": "1000 mL"
+    "third_alt_content": "1000 mL",
+    "matchAltNb": []
   },
   {
     "product_identity": 1147,
@@ -3021,7 +3188,8 @@
     "second_alt_content": "1000 mL",
     "third_alt_name": "Soya Light",
     "third_alt_brand": "Alpro",
-    "third_alt_content": "1000 mL"
+    "third_alt_content": "1000 mL",
+    "matchAltNb": []
   },
   {
     "product_identity": 458,
@@ -3039,7 +3207,8 @@
     "second_alt_content": "5 x 3 stuks",
     "third_alt_name": "Fruitbiscuit Peer Kaneel",
     "third_alt_brand": "Sultana",
-    "third_alt_content": "5 x 3 stuks"
+    "third_alt_content": "5 x 3 stuks",
+    "matchAltNb": []
   },
   {
     "product_identity": 651,
@@ -3055,9 +3224,10 @@
     "second_alt_name": "Borrelnootjes Oriental",
     "second_alt_brand": "Duyvis",
     "second_alt_content": "300 g",
-    "third_alt_name": "Borrelnootjes Proven\u00e7ale",
+    "third_alt_name": "Borrelnootjes Provençale",
     "third_alt_brand": "Duyvis",
-    "third_alt_content": "300 g"
+    "third_alt_content": "300 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 10,
@@ -3075,7 +3245,8 @@
     "second_alt_content": "115 g",
     "third_alt_name": "Superchips Naturel",
     "third_alt_brand": "Lay's",
-    "third_alt_content": "215 g"
+    "third_alt_content": "215 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 74,
@@ -3093,7 +3264,8 @@
     "second_alt_content": "165 g",
     "third_alt_name": "Chips Bolognese Originale",
     "third_alt_brand": "Lay's",
-    "third_alt_content": "225 g"
+    "third_alt_content": "225 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 1912,
@@ -3109,13 +3281,14 @@
     "second_alt_name": "Condooms Feeling Sensitive",
     "second_alt_brand": "Durex",
     "second_alt_content": "12 stuks",
-    "third_alt_name": "Play Massage Gel 2in1 Alo\u00eb Vera",
+    "third_alt_name": "Play Massage Gel 2in1 Aloë Vera",
     "third_alt_brand": "Durex",
-    "third_alt_content": "200 mL"
+    "third_alt_content": "200 mL",
+    "matchAltNb": []
   },
   {
     "product_identity": 1917,
-    "name": "Play Massage Gel 2in1 Alo\u00eb Vera",
+    "name": "Play Massage Gel 2in1 Aloë Vera",
     "brand": "Durex",
     "content_summary": "200 mL",
     "first_alt_prod_id": 1912,
@@ -3129,7 +3302,8 @@
     "second_alt_content": "50 mL",
     "third_alt_name": "Condooms Feeling Ultra Sensitive",
     "third_alt_brand": "Durex",
-    "third_alt_content": "12 stuks"
+    "third_alt_content": "12 stuks",
+    "matchAltNb": []
   },
   {
     "product_identity": 824,
@@ -3139,7 +3313,7 @@
     "first_alt_prod_id": 2099,
     "second_alt_prod_id": 159,
     "third_alt_prod_id": 2609,
-    "first_alt_name": "Tijgernootjes Paprika Fi\u00ebsta Smaak",
+    "first_alt_name": "Tijgernootjes Paprika Fiësta Smaak",
     "first_alt_brand": "Duyvis",
     "first_alt_content": "300 g",
     "second_alt_name": "Tijgernootjes Bacon Kaas Smaak",
@@ -3147,7 +3321,8 @@
     "second_alt_content": "300 g",
     "third_alt_name": "Walnoten Bio",
     "third_alt_brand": "Smaakt",
-    "third_alt_content": "150 g"
+    "third_alt_content": "150 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 774,
@@ -3157,7 +3332,7 @@
     "first_alt_prod_id": 119,
     "second_alt_prod_id": 333,
     "third_alt_prod_id": 307,
-    "first_alt_name": "Borrelnootjes Proven\u00e7ale",
+    "first_alt_name": "Borrelnootjes Provençale",
     "first_alt_brand": "Duyvis",
     "first_alt_content": "300 g",
     "second_alt_name": "Borrelnootjes Poesta",
@@ -3165,7 +3340,8 @@
     "second_alt_content": "300 g",
     "third_alt_name": "Oven Roasted Borrelnootjes Sweet Paprika",
     "third_alt_brand": "Duyvis",
-    "third_alt_content": "200 g"
+    "third_alt_content": "200 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 1918,
@@ -3183,7 +3359,8 @@
     "second_alt_content": "10 stuks",
     "third_alt_name": "Condooms Extra Safe",
     "third_alt_brand": "Durex",
-    "third_alt_content": "12 stuks"
+    "third_alt_content": "12 stuks",
+    "matchAltNb": []
   },
   {
     "product_identity": 20,
@@ -3201,7 +3378,8 @@
     "second_alt_content": "250 g",
     "third_alt_name": "Melbatoast Volkoren",
     "third_alt_brand": "Van der Meulen",
-    "third_alt_content": "120 g"
+    "third_alt_content": "120 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 194,
@@ -3219,7 +3397,8 @@
     "second_alt_content": "225 g",
     "third_alt_name": "Chips Paprika",
     "third_alt_brand": "Croky",
-    "third_alt_content": "175 g"
+    "third_alt_content": "175 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 1228,
@@ -3237,7 +3416,8 @@
     "second_alt_content": "125 g",
     "third_alt_name": "Zeezout Molen",
     "third_alt_brand": "Silvo",
-    "third_alt_content": "70 g"
+    "third_alt_content": "70 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 166,
@@ -3255,7 +3435,8 @@
     "second_alt_content": "215 g",
     "third_alt_name": "Hamka's",
     "third_alt_brand": "Lay's",
-    "third_alt_content": "115 g"
+    "third_alt_content": "115 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 307,
@@ -3268,12 +3449,13 @@
     "first_alt_name": "Borrelnootjes Poesta",
     "first_alt_brand": "Duyvis",
     "first_alt_content": "300 g",
-    "second_alt_name": "Borrelnootjes Proven\u00e7ale",
+    "second_alt_name": "Borrelnootjes Provençale",
     "second_alt_brand": "Duyvis",
     "second_alt_content": "300 g",
     "third_alt_name": "Borrelnootjes Oriental",
     "third_alt_brand": "Duyvis",
-    "third_alt_content": "300 g"
+    "third_alt_content": "300 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 478,
@@ -3291,7 +3473,8 @@
     "second_alt_content": "225 g",
     "third_alt_name": "Chips Light Paprika",
     "third_alt_brand": "Lay's",
-    "third_alt_content": "170 g"
+    "third_alt_content": "170 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 448,
@@ -3309,7 +3492,8 @@
     "second_alt_content": "171 g",
     "third_alt_name": "Fruitbiscuit Naturel",
     "third_alt_brand": "Sultana",
-    "third_alt_content": "5 x 3 stuks"
+    "third_alt_content": "5 x 3 stuks",
+    "matchAltNb": []
   },
   {
     "product_identity": 749,
@@ -3327,7 +3511,8 @@
     "second_alt_content": "130 g",
     "third_alt_name": "Melbatoast Volkoren",
     "third_alt_brand": "Van der Meulen",
-    "third_alt_content": "120 g"
+    "third_alt_content": "120 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 1932,
@@ -3345,7 +3530,8 @@
     "second_alt_content": "5 x 3 stuks",
     "third_alt_name": "Fruitbiscuits Bosvruchten",
     "third_alt_brand": "Sultana",
-    "third_alt_content": "5 x 3 stuks"
+    "third_alt_content": "5 x 3 stuks",
+    "matchAltNb": []
   },
   {
     "product_identity": 1325,
@@ -3363,7 +3549,8 @@
     "second_alt_content": "200 g",
     "third_alt_name": "Paranoten Ongezouten",
     "third_alt_brand": "Boni Selection",
-    "third_alt_content": "250 g"
+    "third_alt_content": "250 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 1792,
@@ -3381,7 +3568,8 @@
     "second_alt_content": "175 g",
     "third_alt_name": "Nacho Cheese",
     "third_alt_brand": "Doritos",
-    "third_alt_content": "185 g"
+    "third_alt_content": "185 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 650,
@@ -3399,7 +3587,8 @@
     "second_alt_content": "195 g",
     "third_alt_name": "Fruitbiscuit Peer Kaneel",
     "third_alt_brand": "Sultana",
-    "third_alt_content": "5 x 3 stuks"
+    "third_alt_content": "5 x 3 stuks",
+    "matchAltNb": []
   },
   {
     "product_identity": 1078,
@@ -3417,7 +3606,8 @@
     "second_alt_content": "150 g",
     "third_alt_name": "Chips Sea Salt",
     "third_alt_brand": "Sunbreaks",
-    "third_alt_content": "95 g"
+    "third_alt_content": "95 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 585,
@@ -3435,7 +3625,8 @@
     "second_alt_content": "200 g",
     "third_alt_name": "Borrelnootjes Oriental",
     "third_alt_brand": "Duyvis",
-    "third_alt_content": "300 g"
+    "third_alt_content": "300 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 1608,
@@ -3453,7 +3644,8 @@
     "second_alt_content": "120 g",
     "third_alt_name": "Melbatoast Volkoren",
     "third_alt_brand": "Van der Meulen",
-    "third_alt_content": "120 g"
+    "third_alt_content": "120 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 805,
@@ -3471,7 +3663,8 @@
     "second_alt_content": "5 stuks",
     "third_alt_name": "Goed Bezig! Krokante Graanrepen Cranberry",
     "third_alt_brand": "Bolletje",
-    "third_alt_content": "210 g"
+    "third_alt_content": "210 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 1582,
@@ -3489,7 +3682,8 @@
     "second_alt_content": "210 g",
     "third_alt_name": "Mueslireep Chocolade",
     "third_alt_brand": "Boni Selection",
-    "third_alt_content": "8 stuks"
+    "third_alt_content": "8 stuks",
+    "matchAltNb": []
   },
   {
     "product_identity": 1919,
@@ -3507,7 +3701,8 @@
     "second_alt_content": "12 stuks",
     "third_alt_name": "Condooms Extra Safe",
     "third_alt_brand": "Durex",
-    "third_alt_content": "12 stuks"
+    "third_alt_content": "12 stuks",
+    "matchAltNb": []
   },
   {
     "product_identity": 1913,
@@ -3520,12 +3715,13 @@
     "first_alt_name": "Play Sensitive Glijmiddel",
     "first_alt_brand": "Durex",
     "first_alt_content": "50 mL",
-    "second_alt_name": "Play Massage Gel 2in1 Alo\u00eb Vera",
+    "second_alt_name": "Play Massage Gel 2in1 Aloë Vera",
     "second_alt_brand": "Durex",
     "second_alt_content": "200 mL",
     "third_alt_name": "Condooms Real Feeling",
     "third_alt_brand": "Durex",
-    "third_alt_content": "10 stuks"
+    "third_alt_content": "10 stuks",
+    "matchAltNb": []
   },
   {
     "product_identity": 3,
@@ -3543,7 +3739,8 @@
     "second_alt_content": "115 g",
     "third_alt_name": "Chips Naturel",
     "third_alt_brand": "Croky",
-    "third_alt_content": "175 g"
+    "third_alt_content": "175 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 811,
@@ -3561,7 +3758,8 @@
     "second_alt_content": "5 x 3 stuks",
     "third_alt_name": "Fruitbiscuits Bosvruchten",
     "third_alt_brand": "Sultana",
-    "third_alt_content": "5 x 3 stuks"
+    "third_alt_content": "5 x 3 stuks",
+    "matchAltNb": []
   },
   {
     "product_identity": 469,
@@ -3579,7 +3777,8 @@
     "second_alt_content": "225 g",
     "third_alt_name": "Deep Ridged Sweet Chilli",
     "third_alt_brand": "Lay's",
-    "third_alt_content": "147 g"
+    "third_alt_content": "147 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 310,
@@ -3597,7 +3796,8 @@
     "second_alt_content": "225 g",
     "third_alt_name": "Chips Paprika",
     "third_alt_brand": "Lay's",
-    "third_alt_content": "225 g"
+    "third_alt_content": "225 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 1317,
@@ -3615,7 +3815,8 @@
     "second_alt_content": "400 g",
     "third_alt_name": "Bananenchips Bio",
     "third_alt_brand": "Smaakt",
-    "third_alt_content": "250 g"
+    "third_alt_content": "250 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 1757,
@@ -3633,7 +3834,8 @@
     "second_alt_content": "3 stuks",
     "third_alt_name": "Sesamrepen Bio",
     "third_alt_brand": "BioToday",
-    "third_alt_content": "3 x 25 g"
+    "third_alt_content": "3 x 25 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 1433,
@@ -3651,7 +3853,8 @@
     "second_alt_content": "125 g",
     "third_alt_name": "Puur Fijn Zout Met Jodium",
     "third_alt_brand": "Jozo",
-    "third_alt_content": "1000 g"
+    "third_alt_content": "1000 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 93,
@@ -3669,7 +3872,8 @@
     "second_alt_content": "130 g",
     "third_alt_name": "Melbatoast Naturel",
     "third_alt_brand": "Van der Meulen",
-    "third_alt_content": "120 g"
+    "third_alt_content": "120 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 2020,
@@ -3687,7 +3891,8 @@
     "second_alt_content": "40 g",
     "third_alt_name": "Kruidnagel Gemalen",
     "third_alt_brand": "Silvo",
-    "third_alt_content": "35 g"
+    "third_alt_content": "35 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 2021,
@@ -3705,7 +3910,8 @@
     "second_alt_content": "35 g",
     "third_alt_name": "Witte Peper Molen",
     "third_alt_brand": "Boni Selection",
-    "third_alt_content": "50 g"
+    "third_alt_content": "50 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 2042,
@@ -3723,7 +3929,8 @@
     "second_alt_content": "235 g",
     "third_alt_name": "Unsalted Almonds",
     "third_alt_brand": "Duyvis",
-    "third_alt_content": "125 g"
+    "third_alt_content": "125 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 2092,
@@ -3741,7 +3948,8 @@
     "second_alt_content": "225 g",
     "third_alt_name": "Ambachtelijke Droge Worst Naturel",
     "third_alt_brand": "Stegeman",
-    "third_alt_content": "130 g"
+    "third_alt_content": "130 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 2093,
@@ -3759,7 +3967,8 @@
     "second_alt_content": "225 g",
     "third_alt_name": "Miniworstjes",
     "third_alt_brand": "Boni Selection",
-    "third_alt_content": "180 g"
+    "third_alt_content": "180 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 2094,
@@ -3777,7 +3986,8 @@
     "second_alt_content": "225 g",
     "third_alt_name": "Groninger Metworst",
     "third_alt_brand": "Huls",
-    "third_alt_content": "220 g"
+    "third_alt_content": "220 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 2095,
@@ -3795,11 +4005,12 @@
     "second_alt_content": "225 g",
     "third_alt_name": "Mild Gekruide Salami",
     "third_alt_brand": "Stegeman",
-    "third_alt_content": "225 g"
+    "third_alt_content": "225 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 2099,
-    "name": "Tijgernootjes Paprika Fi\u00ebsta Smaak",
+    "name": "Tijgernootjes Paprika Fiësta Smaak",
     "brand": "Duyvis",
     "content_summary": "300 g",
     "first_alt_prod_id": 824,
@@ -3813,7 +4024,8 @@
     "second_alt_content": "300 g",
     "third_alt_name": "Pinda's Gezouten",
     "third_alt_brand": "Duyvis",
-    "third_alt_content": "235 g"
+    "third_alt_content": "235 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 2133,
@@ -3831,7 +4043,8 @@
     "second_alt_content": "1000 mL",
     "third_alt_name": "Soya Original",
     "third_alt_brand": "Alpro",
-    "third_alt_content": "1000 mL"
+    "third_alt_content": "1000 mL",
+    "matchAltNb": []
   },
   {
     "product_identity": 2138,
@@ -3849,7 +4062,8 @@
     "second_alt_content": "250 mL",
     "third_alt_name": "Soya Original",
     "third_alt_brand": "Alpro",
-    "third_alt_content": "1000 mL"
+    "third_alt_content": "1000 mL",
+    "matchAltNb": []
   },
   {
     "product_identity": 2139,
@@ -3867,7 +4081,8 @@
     "second_alt_content": "250 mL",
     "third_alt_name": "Oatly Haver Cacao",
     "third_alt_brand": "Oatly",
-    "third_alt_content": "1000 mL"
+    "third_alt_content": "1000 mL",
+    "matchAltNb": []
   },
   {
     "product_identity": 2143,
@@ -3885,7 +4100,8 @@
     "second_alt_content": "170 g",
     "third_alt_name": "Wokkels Paprika",
     "third_alt_brand": "Lay's",
-    "third_alt_content": "115 g"
+    "third_alt_content": "115 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 2144,
@@ -3903,7 +4119,8 @@
     "second_alt_content": "185 g",
     "third_alt_name": "Chips Sea Salt & Balsamic Vinegar",
     "third_alt_brand": "Kettle",
-    "third_alt_content": "150 g"
+    "third_alt_content": "150 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 2145,
@@ -3921,7 +4138,8 @@
     "second_alt_content": "147 g",
     "third_alt_name": "Sensations Chips Thai Sweet Chilli",
     "third_alt_brand": "Lay's",
-    "third_alt_content": "150 g"
+    "third_alt_content": "150 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 2185,
@@ -3939,7 +4157,8 @@
     "second_alt_content": "1000 mL",
     "third_alt_name": "Oatly Cuisine Bio",
     "third_alt_brand": "Oatly",
-    "third_alt_content": "250 mL"
+    "third_alt_content": "250 mL",
+    "matchAltNb": []
   },
   {
     "product_identity": 2186,
@@ -3957,7 +4176,8 @@
     "second_alt_content": "1000 mL",
     "third_alt_name": "Oatly Cuisine Bio",
     "third_alt_brand": "Oatly",
-    "third_alt_content": "250 mL"
+    "third_alt_content": "250 mL",
+    "matchAltNb": []
   },
   {
     "product_identity": 2187,
@@ -3975,7 +4195,8 @@
     "second_alt_content": "1000 mL",
     "third_alt_name": "Oatly Cuisine Bio",
     "third_alt_brand": "Oatly",
-    "third_alt_content": "250 mL"
+    "third_alt_content": "250 mL",
+    "matchAltNb": []
   },
   {
     "product_identity": 2188,
@@ -3993,7 +4214,8 @@
     "second_alt_content": "1000 mL",
     "third_alt_name": "Oatly Haver Barista Edition",
     "third_alt_brand": "Oatly",
-    "third_alt_content": "1000 mL"
+    "third_alt_content": "1000 mL",
+    "matchAltNb": []
   },
   {
     "product_identity": 2189,
@@ -4011,7 +4233,8 @@
     "second_alt_content": "170 g",
     "third_alt_name": "Bugles Naturel",
     "third_alt_brand": "Lay's",
-    "third_alt_content": "115 g"
+    "third_alt_content": "115 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 2190,
@@ -4029,7 +4252,8 @@
     "second_alt_content": "170 g",
     "third_alt_name": "Wokkels Paprika",
     "third_alt_brand": "Lay's",
-    "third_alt_content": "115 g"
+    "third_alt_content": "115 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 2191,
@@ -4047,7 +4271,8 @@
     "second_alt_content": "1000 mL",
     "third_alt_name": "Soya Original",
     "third_alt_brand": "Alpro",
-    "third_alt_content": "1000 mL"
+    "third_alt_content": "1000 mL",
+    "matchAltNb": []
   },
   {
     "product_identity": 2192,
@@ -4065,7 +4290,8 @@
     "second_alt_content": "1000 mL",
     "third_alt_name": "Soya Light",
     "third_alt_brand": "Alpro",
-    "third_alt_content": "1000 mL"
+    "third_alt_content": "1000 mL",
+    "matchAltNb": []
   },
   {
     "product_identity": 2300,
@@ -4083,7 +4309,8 @@
     "second_alt_content": "4 stuks",
     "third_alt_name": "Berry Delight",
     "third_alt_brand": "Nakd",
-    "third_alt_content": "4 stuks"
+    "third_alt_content": "4 stuks",
+    "matchAltNb": []
   },
   {
     "product_identity": 2605,
@@ -4101,7 +4328,8 @@
     "second_alt_content": "500 g",
     "third_alt_name": "Abrikozen Bio",
     "third_alt_brand": "Smaakt",
-    "third_alt_content": "250 g"
+    "third_alt_content": "250 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 2606,
@@ -4119,7 +4347,8 @@
     "second_alt_content": "250 g",
     "third_alt_name": "Abrikozen Gedroogd",
     "third_alt_brand": "Boni Selection",
-    "third_alt_content": "200 g"
+    "third_alt_content": "200 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 2607,
@@ -4137,7 +4366,8 @@
     "second_alt_content": "250 g",
     "third_alt_name": "Abrikozen Bio",
     "third_alt_brand": "Smaakt",
-    "third_alt_content": "250 g"
+    "third_alt_content": "250 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 2608,
@@ -4155,7 +4385,8 @@
     "second_alt_content": "150 g",
     "third_alt_name": "Cashewnoten Bio",
     "third_alt_brand": "Smaakt",
-    "third_alt_content": "200 g"
+    "third_alt_content": "200 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 2609,
@@ -4173,7 +4404,8 @@
     "second_alt_content": "200 g",
     "third_alt_name": "Tijgernootjes Bacon Kaas Smaak",
     "third_alt_brand": "Duyvis",
-    "third_alt_content": "300 g"
+    "third_alt_content": "300 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 2610,
@@ -4191,7 +4423,8 @@
     "second_alt_content": "200 g",
     "third_alt_name": "Walnoten Bio",
     "third_alt_brand": "Smaakt",
-    "third_alt_content": "150 g"
+    "third_alt_content": "150 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 2337,
@@ -4209,7 +4442,8 @@
     "second_alt_content": "125 g",
     "third_alt_name": "Minicrackers Naturel",
     "third_alt_brand": "LU",
-    "third_alt_content": "250 g"
+    "third_alt_content": "250 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 2542,
@@ -4227,7 +4461,8 @@
     "second_alt_content": "3 x 25 g",
     "third_alt_name": "Abrikoos-Hazelnootreep Bio",
     "third_alt_brand": "BioToday",
-    "third_alt_content": "3 x 25 g"
+    "third_alt_content": "3 x 25 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 2543,
@@ -4245,7 +4480,8 @@
     "second_alt_content": "12 stuks",
     "third_alt_name": "Kruidkoek Zero",
     "third_alt_brand": "Snelle Jelle",
-    "third_alt_content": "4 stuks"
+    "third_alt_content": "4 stuks",
+    "matchAltNb": []
   },
   {
     "product_identity": 2544,
@@ -4263,7 +4499,8 @@
     "second_alt_content": "3 x 25 g",
     "third_alt_name": "Citroen-Amandelkoek Bio",
     "third_alt_brand": "BioToday",
-    "third_alt_content": "3 x 50 g"
+    "third_alt_content": "3 x 50 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 2548,
@@ -4281,7 +4518,8 @@
     "second_alt_content": "3 x 25 g",
     "third_alt_name": "Pindarepen Bio",
     "third_alt_brand": "BioToday",
-    "third_alt_content": "3 x 25 g"
+    "third_alt_content": "3 x 25 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 2549,
@@ -4299,7 +4537,8 @@
     "second_alt_content": "3 x 25 g",
     "third_alt_name": "Notenreep Amandel Bio",
     "third_alt_brand": "Zonnatura",
-    "third_alt_content": "3 stuks"
+    "third_alt_content": "3 stuks",
+    "matchAltNb": []
   },
   {
     "product_identity": 2557,
@@ -4317,7 +4556,8 @@
     "second_alt_content": "3 stuks",
     "third_alt_name": "Cocoa Orange",
     "third_alt_brand": "Nakd",
-    "third_alt_content": "4 stuks"
+    "third_alt_content": "4 stuks",
+    "matchAltNb": []
   },
   {
     "product_identity": 2558,
@@ -4335,7 +4575,8 @@
     "second_alt_content": "4 stuks",
     "third_alt_name": "Repen Pure Chocolade",
     "third_alt_brand": "Eat Natural",
-    "third_alt_content": "3 stuks"
+    "third_alt_content": "3 stuks",
+    "matchAltNb": []
   },
   {
     "product_identity": 2577,
@@ -4353,7 +4594,8 @@
     "second_alt_content": "5 x 2 stuks",
     "third_alt_name": "Fruitbiscuit",
     "third_alt_brand": "Boni Selection",
-    "third_alt_content": "5 x 3 stuks"
+    "third_alt_content": "5 x 3 stuks",
+    "matchAltNb": []
   },
   {
     "product_identity": 2578,
@@ -4371,7 +4613,8 @@
     "second_alt_content": "5 x 3 stuks",
     "third_alt_name": "Yofruit Aardbei",
     "third_alt_brand": "Sultana",
-    "third_alt_content": "5 x 2 stuks"
+    "third_alt_content": "5 x 2 stuks",
+    "matchAltNb": []
   },
   {
     "product_identity": 2481,
@@ -4389,7 +4632,8 @@
     "second_alt_content": "125 g",
     "third_alt_name": "Oven Roasted Peanuts Honey",
     "third_alt_brand": "Duyvis",
-    "third_alt_content": "175 g"
+    "third_alt_content": "175 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 2486,
@@ -4405,9 +4649,10 @@
     "second_alt_name": "Unsalted Nutmix Cranberry",
     "second_alt_brand": "Duyvis",
     "second_alt_content": "125 g",
-    "third_alt_name": "Borrelnootjes Proven\u00e7ale",
+    "third_alt_name": "Borrelnootjes Provençale",
     "third_alt_brand": "Duyvis",
-    "third_alt_content": "300 g"
+    "third_alt_content": "300 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 2487,
@@ -4425,7 +4670,8 @@
     "second_alt_content": "125 g",
     "third_alt_name": "Oven Roasted Cashews Original",
     "third_alt_brand": "Duyvis",
-    "third_alt_content": "125 g"
+    "third_alt_content": "125 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 2488,
@@ -4443,7 +4689,8 @@
     "second_alt_content": "115 g",
     "third_alt_name": "Bugles Naturel",
     "third_alt_brand": "Lay's",
-    "third_alt_content": "115 g"
+    "third_alt_content": "115 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 2489,
@@ -4461,7 +4708,8 @@
     "second_alt_content": "125 g",
     "third_alt_name": "Mama Mia's",
     "third_alt_brand": "Lay's",
-    "third_alt_content": "125 g"
+    "third_alt_content": "125 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 2492,
@@ -4479,7 +4727,8 @@
     "second_alt_content": "225 g",
     "third_alt_name": "Wokkels Naturel",
     "third_alt_brand": "Lay's",
-    "third_alt_content": "115 g"
+    "third_alt_content": "115 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 2673,
@@ -4497,7 +4746,8 @@
     "second_alt_content": "110 g",
     "third_alt_name": "Chips Cheese Onion",
     "third_alt_brand": "Lay's",
-    "third_alt_content": "225 g"
+    "third_alt_content": "225 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 2711,
@@ -4515,7 +4765,8 @@
     "second_alt_content": "235 g",
     "third_alt_name": "Pinda's Gezouten",
     "third_alt_brand": "Boni Selection",
-    "third_alt_content": "500 g"
+    "third_alt_content": "500 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 2757,
@@ -4533,7 +4784,8 @@
     "second_alt_content": "130 g",
     "third_alt_name": "Ricetoast Naturel",
     "third_alt_brand": "Van der Meulen",
-    "third_alt_content": "65 g"
+    "third_alt_content": "65 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 2790,
@@ -4551,7 +4803,8 @@
     "second_alt_content": "100 g",
     "third_alt_name": "Zeezout",
     "third_alt_brand": "Jozo",
-    "third_alt_content": "500 g"
+    "third_alt_content": "500 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 2791,
@@ -4569,7 +4822,8 @@
     "second_alt_content": "100 g",
     "third_alt_name": "Zeezout",
     "third_alt_brand": "Jozo",
-    "third_alt_content": "500 g"
+    "third_alt_content": "500 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 2812,
@@ -4587,7 +4841,8 @@
     "second_alt_content": "38 g",
     "third_alt_name": "Viskruiden",
     "third_alt_brand": "Boni Selection",
-    "third_alt_content": "40 g"
+    "third_alt_content": "40 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 2867,
@@ -4605,7 +4860,8 @@
     "second_alt_content": "165 g",
     "third_alt_name": "Paprika",
     "third_alt_brand": "Pringles",
-    "third_alt_content": "165 g"
+    "third_alt_content": "165 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 2868,
@@ -4623,7 +4879,8 @@
     "second_alt_content": "165 g",
     "third_alt_name": "Chips Cheese Onion",
     "third_alt_brand": "Lay's",
-    "third_alt_content": "225 g"
+    "third_alt_content": "225 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 2869,
@@ -4641,7 +4898,8 @@
     "second_alt_content": "200 g",
     "third_alt_name": "Pringles Sea Salt & Herbs",
     "third_alt_brand": "Pringles",
-    "third_alt_content": "165 g"
+    "third_alt_content": "165 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 2882,
@@ -4659,7 +4917,8 @@
     "second_alt_content": "200 g",
     "third_alt_name": "Tortilla Chips Naturel",
     "third_alt_brand": "Boni Selection",
-    "third_alt_content": "200 g"
+    "third_alt_content": "200 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 2920,
@@ -4677,7 +4936,8 @@
     "second_alt_content": "12 x 6 stuks",
     "third_alt_name": "Party Extra Tuinkruiden",
     "third_alt_brand": "Haust",
-    "third_alt_content": "200 g"
+    "third_alt_content": "200 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 2921,
@@ -4695,7 +4955,8 @@
     "second_alt_content": "200 g",
     "third_alt_name": "Melba Toast Vierkant",
     "third_alt_brand": "Boni Selection",
-    "third_alt_content": "12 x 6 stuks"
+    "third_alt_content": "12 x 6 stuks",
+    "matchAltNb": []
   },
   {
     "product_identity": 3109,
@@ -4713,7 +4974,8 @@
     "second_alt_content": "4 x 2 stuks",
     "third_alt_name": "Dubbel Lekker Melk",
     "third_alt_brand": "Peijnenburg",
-    "third_alt_content": "5 x 49 g"
+    "third_alt_content": "5 x 49 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 3121,
@@ -4731,7 +4993,8 @@
     "second_alt_content": "5 x 50 g",
     "third_alt_name": "Kruidkoek Naturel",
     "third_alt_brand": "Snelle Jelle",
-    "third_alt_content": "5 stuks"
+    "third_alt_content": "5 stuks",
+    "matchAltNb": []
   },
   {
     "product_identity": 3124,
@@ -4749,7 +5012,8 @@
     "second_alt_content": "210 g",
     "third_alt_name": "Repen Amandel & Sultanarozijn",
     "third_alt_brand": "Eat Natural",
-    "third_alt_content": "3 stuks"
+    "third_alt_content": "3 stuks",
+    "matchAltNb": []
   },
   {
     "product_identity": 3072,
@@ -4767,7 +5031,8 @@
     "second_alt_content": "6 stuks",
     "third_alt_name": "Pecan Pie",
     "third_alt_brand": "Nakd",
-    "third_alt_content": "4 stuks"
+    "third_alt_content": "4 stuks",
+    "matchAltNb": []
   },
   {
     "product_identity": 3087,
@@ -4785,7 +5050,8 @@
     "second_alt_content": "4 stuks",
     "third_alt_name": "B'tween Kokosrepen",
     "third_alt_brand": "Hero",
-    "third_alt_content": "6 stuks"
+    "third_alt_content": "6 stuks",
+    "matchAltNb": []
   },
   {
     "product_identity": 3088,
@@ -4803,7 +5069,8 @@
     "second_alt_content": "5 stuks",
     "third_alt_name": "B'tween Kokosrepen",
     "third_alt_brand": "Hero",
-    "third_alt_content": "6 stuks"
+    "third_alt_content": "6 stuks",
+    "matchAltNb": []
   },
   {
     "product_identity": 3298,
@@ -4821,7 +5088,8 @@
     "second_alt_content": "12 stuks",
     "third_alt_name": "Condooms Real Feeling",
     "third_alt_brand": "Durex",
-    "third_alt_content": "10 stuks"
+    "third_alt_content": "10 stuks",
+    "matchAltNb": []
   },
   {
     "product_identity": 3444,
@@ -4839,7 +5107,8 @@
     "second_alt_content": "220 g",
     "third_alt_name": "Miniworstjes",
     "third_alt_brand": "Boni Selection",
-    "third_alt_content": "180 g"
+    "third_alt_content": "180 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 3380,
@@ -4857,7 +5126,8 @@
     "second_alt_content": "150 g",
     "third_alt_name": "Chips Paprika",
     "third_alt_brand": "Lay's",
-    "third_alt_content": "225 g"
+    "third_alt_content": "225 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 3381,
@@ -4875,7 +5145,8 @@
     "second_alt_content": "15 stuks",
     "third_alt_name": "Chips Cheese Onion Partypack",
     "third_alt_brand": "Lay's",
-    "third_alt_content": "335 g"
+    "third_alt_content": "335 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 3382,
@@ -4893,7 +5164,8 @@
     "second_alt_content": "335 g",
     "third_alt_name": "Chips Patatje Joppie Flavour Partypack",
     "third_alt_brand": "Lay's",
-    "third_alt_content": "335 g"
+    "third_alt_content": "335 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 3383,
@@ -4911,7 +5183,8 @@
     "second_alt_content": "335 g",
     "third_alt_name": "Chips Cheese Onion Partypack",
     "third_alt_brand": "Lay's",
-    "third_alt_content": "335 g"
+    "third_alt_content": "335 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 3384,
@@ -4929,7 +5202,8 @@
     "second_alt_content": "335 g",
     "third_alt_name": "Chips Patatje Joppie Flavour Partypack",
     "third_alt_brand": "Lay's",
-    "third_alt_content": "335 g"
+    "third_alt_content": "335 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 3385,
@@ -4947,7 +5221,8 @@
     "second_alt_content": "335 g",
     "third_alt_name": "Chips Cheese Onion Partypack",
     "third_alt_brand": "Lay's",
-    "third_alt_content": "335 g"
+    "third_alt_content": "335 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 3386,
@@ -4965,7 +5240,8 @@
     "second_alt_content": "335 g",
     "third_alt_name": "Chips Cheese Onion Partypack",
     "third_alt_brand": "Lay's",
-    "third_alt_content": "335 g"
+    "third_alt_content": "335 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 3387,
@@ -4983,7 +5259,8 @@
     "second_alt_content": "115 g",
     "third_alt_name": "Hamka's",
     "third_alt_brand": "Lay's",
-    "third_alt_content": "115 g"
+    "third_alt_content": "115 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 3388,
@@ -5001,7 +5278,8 @@
     "second_alt_content": "165 g",
     "third_alt_name": "Wokkels Paprika",
     "third_alt_brand": "Lay's",
-    "third_alt_content": "115 g"
+    "third_alt_content": "115 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 3389,
@@ -5019,7 +5297,8 @@
     "second_alt_content": "115 g",
     "third_alt_name": "Chips Cheese Onion",
     "third_alt_brand": "Lay's",
-    "third_alt_content": "225 g"
+    "third_alt_content": "225 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 3390,
@@ -5037,7 +5316,8 @@
     "second_alt_content": "125 g",
     "third_alt_name": "Bugles Naturel",
     "third_alt_brand": "Lay's",
-    "third_alt_content": "115 g"
+    "third_alt_content": "115 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 3415,
@@ -5055,7 +5335,8 @@
     "second_alt_content": "5 x 3 stuks",
     "third_alt_name": "Fruitbiscuit Appel",
     "third_alt_brand": "Sultana",
-    "third_alt_content": "5 x 3 stuks"
+    "third_alt_content": "5 x 3 stuks",
+    "matchAltNb": []
   },
   {
     "product_identity": 3416,
@@ -5073,7 +5354,8 @@
     "second_alt_content": "250 g",
     "third_alt_name": "Evergreen Bosvruchten",
     "third_alt_brand": "Liga",
-    "third_alt_content": "250 g"
+    "third_alt_content": "250 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 3417,
@@ -5091,7 +5373,8 @@
     "second_alt_content": "5 x 3 stuks",
     "third_alt_name": "Time Out Granenbiscuits Melkchocolade",
     "third_alt_brand": "LU",
-    "third_alt_content": "195 g"
+    "third_alt_content": "195 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 3418,
@@ -5109,7 +5392,8 @@
     "second_alt_content": "8 stuks",
     "third_alt_name": "B'tween Kokosrepen",
     "third_alt_brand": "Hero",
-    "third_alt_content": "6 stuks"
+    "third_alt_content": "6 stuks",
+    "matchAltNb": []
   },
   {
     "product_identity": 3419,
@@ -5127,7 +5411,8 @@
     "second_alt_content": "210 g",
     "third_alt_name": "Time Out Koekrepen Naturel",
     "third_alt_brand": "LU",
-    "third_alt_content": "5 stuks"
+    "third_alt_content": "5 stuks",
+    "matchAltNb": []
   },
   {
     "product_identity": 3420,
@@ -5145,7 +5430,8 @@
     "second_alt_content": "6 stuks",
     "third_alt_name": "Pindarepen Bio",
     "third_alt_brand": "BioToday",
-    "third_alt_content": "3 x 25 g"
+    "third_alt_content": "3 x 25 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 3421,
@@ -5163,7 +5449,8 @@
     "second_alt_content": "3 stuks",
     "third_alt_name": "Repen Amandel & Abrikoos",
     "third_alt_brand": "Eat Natural",
-    "third_alt_content": "3 stuks"
+    "third_alt_content": "3 stuks",
+    "matchAltNb": []
   },
   {
     "product_identity": 3422,
@@ -5181,7 +5468,8 @@
     "second_alt_content": "4 stuks",
     "third_alt_name": "Muesli Repen Met Hazelnoot",
     "third_alt_brand": "Boni Selection",
-    "third_alt_content": "150 g"
+    "third_alt_content": "150 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 3423,
@@ -5199,7 +5487,8 @@
     "second_alt_content": "9 x 2 stuks",
     "third_alt_name": "Time Out Granenbiscuits Speculaas",
     "third_alt_brand": "LU",
-    "third_alt_content": "171 g"
+    "third_alt_content": "171 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 3424,
@@ -5217,7 +5506,8 @@
     "second_alt_content": "5 stuks",
     "third_alt_name": "Kruidkoek Minder Suiker",
     "third_alt_brand": "Snelle Jelle",
-    "third_alt_content": "5 x 50 g"
+    "third_alt_content": "5 x 50 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 3425,
@@ -5235,7 +5525,8 @@
     "second_alt_content": "4 stuks",
     "third_alt_name": "Kruidkoek Rozijnen",
     "third_alt_brand": "Snelle Jelle",
-    "third_alt_content": "5 stuks"
+    "third_alt_content": "5 stuks",
+    "matchAltNb": []
   },
   {
     "product_identity": 3426,
@@ -5253,7 +5544,8 @@
     "second_alt_content": "6 stuks",
     "third_alt_name": "Kruidkoek Rozijnen",
     "third_alt_brand": "Snelle Jelle",
-    "third_alt_content": "5 stuks"
+    "third_alt_content": "5 stuks",
+    "matchAltNb": []
   },
   {
     "product_identity": 3441,
@@ -5271,7 +5563,8 @@
     "second_alt_content": "180 g",
     "third_alt_name": "Boerenjongens Kruidnagel",
     "third_alt_brand": "Huls",
-    "third_alt_content": "121 g"
+    "third_alt_content": "121 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 3443,
@@ -5289,7 +5582,8 @@
     "second_alt_content": "121 g",
     "third_alt_name": "Miniworstjes",
     "third_alt_brand": "Boni Selection",
-    "third_alt_content": "180 g"
+    "third_alt_content": "180 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 9758,
@@ -5307,7 +5601,8 @@
     "second_alt_content": "20 g",
     "third_alt_name": "Marjolein",
     "third_alt_brand": "Boni Selection",
-    "third_alt_content": "12 g"
+    "third_alt_content": "12 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 9759,
@@ -5325,7 +5620,8 @@
     "second_alt_content": "190 g",
     "third_alt_name": "Pepermix Molen",
     "third_alt_brand": "Boni Selection",
-    "third_alt_content": "35 g"
+    "third_alt_content": "35 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 9772,
@@ -5343,7 +5639,8 @@
     "second_alt_content": "80 g",
     "third_alt_name": "Tijm",
     "third_alt_brand": "Boni Selection",
-    "third_alt_content": "20 g"
+    "third_alt_content": "20 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 9773,
@@ -5361,7 +5658,8 @@
     "second_alt_content": "12 g",
     "third_alt_name": "Tijm",
     "third_alt_brand": "Boni Selection",
-    "third_alt_content": "20 g"
+    "third_alt_content": "20 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 9774,
@@ -5379,7 +5677,8 @@
     "second_alt_content": "5 x 1 g",
     "third_alt_name": "Pilipili",
     "third_alt_brand": "Boni Selection",
-    "third_alt_content": "40 g"
+    "third_alt_content": "40 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 9775,
@@ -5397,7 +5696,8 @@
     "second_alt_content": "12 g",
     "third_alt_name": "Paprikapoeder",
     "third_alt_brand": "Boni Selection",
-    "third_alt_content": "50 g"
+    "third_alt_content": "50 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 9776,
@@ -5415,7 +5715,8 @@
     "second_alt_content": "35 g",
     "third_alt_name": "Kurkuma",
     "third_alt_brand": "Boni Selection",
-    "third_alt_content": "50 g"
+    "third_alt_content": "50 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 9777,
@@ -5433,7 +5734,8 @@
     "second_alt_content": "50 g",
     "third_alt_name": "Oregano",
     "third_alt_brand": "Boni Selection",
-    "third_alt_content": "12 g"
+    "third_alt_content": "12 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 9778,
@@ -5451,7 +5753,8 @@
     "second_alt_content": "5 x 1 g",
     "third_alt_name": "Tijm",
     "third_alt_brand": "Boni Selection",
-    "third_alt_content": "20 g"
+    "third_alt_content": "20 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 9779,
@@ -5469,7 +5772,8 @@
     "second_alt_content": "12 g",
     "third_alt_name": "Kerriepoeder",
     "third_alt_brand": "Boni Selection",
-    "third_alt_content": "40 g"
+    "third_alt_content": "40 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 9780,
@@ -5487,7 +5791,8 @@
     "second_alt_content": "35 g",
     "third_alt_name": "Marjolein",
     "third_alt_brand": "Boni Selection",
-    "third_alt_content": "12 g"
+    "third_alt_content": "12 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 9781,
@@ -5505,7 +5810,8 @@
     "second_alt_content": "190 g",
     "third_alt_name": "Pilipili",
     "third_alt_brand": "Boni Selection",
-    "third_alt_content": "40 g"
+    "third_alt_content": "40 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 9782,
@@ -5523,7 +5829,8 @@
     "second_alt_content": "40 g",
     "third_alt_name": "Kurkuma",
     "third_alt_brand": "Boni Selection",
-    "third_alt_content": "50 g"
+    "third_alt_content": "50 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 9783,
@@ -5541,7 +5848,8 @@
     "second_alt_content": "5 g",
     "third_alt_name": "Cayennepeper",
     "third_alt_brand": "Silvo",
-    "third_alt_content": "32 g"
+    "third_alt_content": "32 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 9784,
@@ -5559,7 +5867,8 @@
     "second_alt_content": "30 g",
     "third_alt_name": "Kaneelstokjes",
     "third_alt_brand": "Boni Selection",
-    "third_alt_content": "15 g"
+    "third_alt_content": "15 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 9785,
@@ -5577,7 +5886,8 @@
     "second_alt_content": "12 g",
     "third_alt_name": "Rozemarijn",
     "third_alt_brand": "Boni Selection",
-    "third_alt_content": "20 g"
+    "third_alt_content": "20 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 9786,
@@ -5595,7 +5905,8 @@
     "second_alt_content": "40 g",
     "third_alt_name": "Laurierblaadjes",
     "third_alt_brand": "Boni Selection",
-    "third_alt_content": "20 g"
+    "third_alt_content": "20 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 9787,
@@ -5613,7 +5924,8 @@
     "second_alt_content": "12 g",
     "third_alt_name": "Tijm",
     "third_alt_brand": "Boni Selection",
-    "third_alt_content": "20 g"
+    "third_alt_content": "20 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 9788,
@@ -5631,7 +5943,8 @@
     "second_alt_content": "20 g",
     "third_alt_name": "Dragon",
     "third_alt_brand": "Boni Selection",
-    "third_alt_content": "5 g"
+    "third_alt_content": "5 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 9789,
@@ -5649,7 +5962,8 @@
     "second_alt_content": "50 g",
     "third_alt_name": "Kaneelstokjes",
     "third_alt_brand": "Boni Selection",
-    "third_alt_content": "15 g"
+    "third_alt_content": "15 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 9790,
@@ -5667,7 +5981,8 @@
     "second_alt_content": "40 g",
     "third_alt_name": "Marjolein",
     "third_alt_brand": "Boni Selection",
-    "third_alt_content": "12 g"
+    "third_alt_content": "12 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 9791,
@@ -5685,7 +6000,8 @@
     "second_alt_content": "30 g",
     "third_alt_name": "Marjolein",
     "third_alt_brand": "Boni Selection",
-    "third_alt_content": "12 g"
+    "third_alt_content": "12 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 9792,
@@ -5703,7 +6019,8 @@
     "second_alt_content": "5 g",
     "third_alt_name": "Dragon",
     "third_alt_brand": "Boni Selection",
-    "third_alt_content": "80 g"
+    "third_alt_content": "80 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 9802,
@@ -5721,7 +6038,8 @@
     "second_alt_content": "12 g",
     "third_alt_name": "Tijm",
     "third_alt_brand": "Boni Selection",
-    "third_alt_content": "20 g"
+    "third_alt_content": "20 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 9803,
@@ -5739,7 +6057,8 @@
     "second_alt_content": "50 g",
     "third_alt_name": "Paprikapoeder Bio",
     "third_alt_brand": "Boni Bio",
-    "third_alt_content": "50 g"
+    "third_alt_content": "50 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 9804,
@@ -5757,7 +6076,8 @@
     "second_alt_content": "40 g",
     "third_alt_name": "Knorr Smaakverfijner Aromat Tuinkruiden",
     "third_alt_brand": "Knorr",
-    "third_alt_content": "88 g"
+    "third_alt_content": "88 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 9805,
@@ -5775,7 +6095,8 @@
     "second_alt_content": "500 g",
     "third_alt_name": "Zout & Pepermix",
     "third_alt_brand": "Jozo",
-    "third_alt_content": "100 g"
+    "third_alt_content": "100 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 9806,
@@ -5793,7 +6114,8 @@
     "second_alt_content": "12 g",
     "third_alt_name": "Kruidnagel",
     "third_alt_brand": "Boni Selection",
-    "third_alt_content": "30 g"
+    "third_alt_content": "30 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 9820,
@@ -5811,7 +6133,8 @@
     "second_alt_content": "35 g",
     "third_alt_name": "Witte Peper Molen",
     "third_alt_brand": "Boni Selection",
-    "third_alt_content": "50 g"
+    "third_alt_content": "50 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 9822,
@@ -5829,7 +6152,8 @@
     "second_alt_content": "35 g",
     "third_alt_name": "Groene Peper",
     "third_alt_brand": "Boni Selection",
-    "third_alt_content": "190 g"
+    "third_alt_content": "190 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 9823,
@@ -5847,7 +6171,8 @@
     "second_alt_content": "35 g",
     "third_alt_name": "Groene Peper",
     "third_alt_brand": "Boni Selection",
-    "third_alt_content": "190 g"
+    "third_alt_content": "190 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 9836,
@@ -5865,7 +6190,8 @@
     "second_alt_content": "50 g",
     "third_alt_name": "Zwarte Peper Molen",
     "third_alt_brand": "Boni Selection",
-    "third_alt_content": "35 g"
+    "third_alt_content": "35 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 9841,
@@ -5883,7 +6209,8 @@
     "second_alt_content": "40 g",
     "third_alt_name": "Marjolein",
     "third_alt_brand": "Boni Selection",
-    "third_alt_content": "12 g"
+    "third_alt_content": "12 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 9842,
@@ -5901,7 +6228,8 @@
     "second_alt_content": "40 g",
     "third_alt_name": "Marjolein",
     "third_alt_brand": "Boni Selection",
-    "third_alt_content": "12 g"
+    "third_alt_content": "12 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 9514,
@@ -5919,7 +6247,8 @@
     "second_alt_content": "125 g",
     "third_alt_name": "Mini Crackers Tomato, Onion & Chili",
     "third_alt_brand": "Boni Selection",
-    "third_alt_content": "125 g"
+    "third_alt_content": "125 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 9535,
@@ -5937,7 +6266,8 @@
     "second_alt_content": "6 stuks",
     "third_alt_name": "Abrikoos-Hazelnootreep Bio",
     "third_alt_brand": "BioToday",
-    "third_alt_content": "3 x 25 g"
+    "third_alt_content": "3 x 25 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 9661,
@@ -5955,7 +6285,8 @@
     "second_alt_content": "250 g",
     "third_alt_name": "Gojibessen",
     "third_alt_brand": "Boni Selection",
-    "third_alt_content": "140 g"
+    "third_alt_content": "140 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 9500,
@@ -5973,7 +6304,8 @@
     "second_alt_content": "2 x 22 stuks",
     "third_alt_name": "Melba Toast Vierkant",
     "third_alt_brand": "Boni Selection",
-    "third_alt_content": "12 x 6 stuks"
+    "third_alt_content": "12 x 6 stuks",
+    "matchAltNb": []
   },
   {
     "product_identity": 9484,
@@ -5991,7 +6323,8 @@
     "second_alt_content": "2 x 110 g",
     "third_alt_name": "Fijne Cervelaat",
     "third_alt_brand": "Stegeman",
-    "third_alt_content": "225 g"
+    "third_alt_content": "225 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 9536,
@@ -6009,7 +6342,8 @@
     "second_alt_content": "225 g",
     "third_alt_name": "Groninger Metworst",
     "third_alt_brand": "Huls",
-    "third_alt_content": "220 g"
+    "third_alt_content": "220 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 9510,
@@ -6027,7 +6361,8 @@
     "second_alt_content": "3 x 250 mL",
     "third_alt_name": "Mueslireep Chocolade",
     "third_alt_brand": "Boni Selection",
-    "third_alt_content": "8 stuks"
+    "third_alt_content": "8 stuks",
+    "matchAltNb": []
   },
   {
     "product_identity": 9518,
@@ -6045,7 +6380,8 @@
     "second_alt_content": "8 stuks",
     "third_alt_name": "Crackers Met Olijven",
     "third_alt_brand": "Boni Selection",
-    "third_alt_content": "150 g"
+    "third_alt_content": "150 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 9672,
@@ -6063,7 +6399,8 @@
     "second_alt_content": "250 g",
     "third_alt_name": "Cashewnoten Gezouten",
     "third_alt_brand": "Boni Selection",
-    "third_alt_content": "200 g"
+    "third_alt_content": "200 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 9673,
@@ -6081,7 +6418,8 @@
     "second_alt_content": "250 g",
     "third_alt_name": "Notenmix Ongezouten",
     "third_alt_brand": "Boni Selection",
-    "third_alt_content": "350 g"
+    "third_alt_content": "350 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 9674,
@@ -6099,11 +6437,12 @@
     "second_alt_content": "250 g",
     "third_alt_name": "Notenmix Ongezouten",
     "third_alt_brand": "Boni Selection",
-    "third_alt_content": "350 g"
+    "third_alt_content": "350 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 9676,
-    "name": "Hawa\u00efmix",
+    "name": "Hawaïmix",
     "brand": "Boni Selection",
     "content_summary": "200 g",
     "first_alt_prod_id": 9667,
@@ -6117,7 +6456,8 @@
     "second_alt_content": "250 g",
     "third_alt_name": "Rozijnen",
     "third_alt_brand": "Boni Selection",
-    "third_alt_content": "250 g"
+    "third_alt_content": "250 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 9677,
@@ -6135,7 +6475,8 @@
     "second_alt_content": "200 g",
     "third_alt_name": "Pistachenoten Gezouten",
     "third_alt_brand": "Boni Selection",
-    "third_alt_content": "250 g"
+    "third_alt_content": "250 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 9487,
@@ -6153,7 +6494,8 @@
     "second_alt_content": "75 g",
     "third_alt_name": "Melba Toast Vierkant",
     "third_alt_brand": "Boni Selection",
-    "third_alt_content": "12 x 6 stuks"
+    "third_alt_content": "12 x 6 stuks",
+    "matchAltNb": []
   },
   {
     "product_identity": 9489,
@@ -6171,7 +6513,8 @@
     "second_alt_content": "120 g",
     "third_alt_name": "Picos Mini Soepstengels",
     "third_alt_brand": "Boni Selection",
-    "third_alt_content": "150 g"
+    "third_alt_content": "150 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 9497,
@@ -6189,7 +6532,8 @@
     "second_alt_content": "120 g",
     "third_alt_name": "Picos Mini Soepstengels",
     "third_alt_brand": "Boni Selection",
-    "third_alt_content": "150 g"
+    "third_alt_content": "150 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 9662,
@@ -6199,7 +6543,7 @@
     "first_alt_prod_id": 9676,
     "second_alt_prod_id": 9667,
     "third_alt_prod_id": 9345,
-    "first_alt_name": "Hawa\u00efmix",
+    "first_alt_name": "Hawaïmix",
     "first_alt_brand": "Boni Selection",
     "first_alt_content": "200 g",
     "second_alt_name": "Gojibessen",
@@ -6207,7 +6551,8 @@
     "second_alt_content": "140 g",
     "third_alt_name": "Dadels Gedroogd",
     "third_alt_brand": "Boni Selection",
-    "third_alt_content": "400 g"
+    "third_alt_content": "400 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 9663,
@@ -6225,7 +6570,8 @@
     "second_alt_content": "6 x 42 g",
     "third_alt_name": "Dadels Gedroogd",
     "third_alt_brand": "Boni Selection",
-    "third_alt_content": "400 g"
+    "third_alt_content": "400 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 9667,
@@ -6235,7 +6581,7 @@
     "first_alt_prod_id": 9676,
     "second_alt_prod_id": 9661,
     "third_alt_prod_id": 9662,
-    "first_alt_name": "Hawa\u00efmix",
+    "first_alt_name": "Hawaïmix",
     "first_alt_brand": "Boni Selection",
     "first_alt_content": "200 g",
     "second_alt_name": "Golden Rozijnen",
@@ -6243,7 +6589,8 @@
     "second_alt_content": "6 x 42 g",
     "third_alt_name": "Exotic Fruit Mix",
     "third_alt_brand": "Boni Selection",
-    "third_alt_content": "250 g"
+    "third_alt_content": "250 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 9678,
@@ -6261,7 +6608,8 @@
     "second_alt_content": "200 g",
     "third_alt_name": "Gojibessen",
     "third_alt_brand": "Boni Selection",
-    "third_alt_content": "140 g"
+    "third_alt_content": "140 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 9679,
@@ -6279,7 +6627,8 @@
     "second_alt_content": "500 g",
     "third_alt_name": "Dadels Gedroogd",
     "third_alt_brand": "Boni Selection",
-    "third_alt_content": "400 g"
+    "third_alt_content": "400 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 9901,
@@ -6297,7 +6646,8 @@
     "second_alt_content": "1000 mL",
     "third_alt_name": "Rijstdrank Pak",
     "third_alt_brand": "Boni Selection",
-    "third_alt_content": "1000 mL"
+    "third_alt_content": "1000 mL",
+    "matchAltNb": []
   },
   {
     "product_identity": 9902,
@@ -6315,7 +6665,8 @@
     "second_alt_content": "1000 mL",
     "third_alt_name": "Sojadrank Vanille Pakjes",
     "third_alt_brand": "Boni Selection",
-    "third_alt_content": "3 x 250 mL"
+    "third_alt_content": "3 x 250 mL",
+    "matchAltNb": []
   },
   {
     "product_identity": 9903,
@@ -6333,7 +6684,8 @@
     "second_alt_content": "1000 mL",
     "third_alt_name": "Sojadrank Vanille Pakjes",
     "third_alt_brand": "Boni Selection",
-    "third_alt_content": "3 x 250 mL"
+    "third_alt_content": "3 x 250 mL",
+    "matchAltNb": []
   },
   {
     "product_identity": 9537,
@@ -6351,7 +6703,8 @@
     "second_alt_content": "125 g",
     "third_alt_name": "Chips Rozemarijn",
     "third_alt_brand": "Boni Selection",
-    "third_alt_content": "125 g"
+    "third_alt_content": "125 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 9538,
@@ -6369,7 +6722,8 @@
     "second_alt_content": "125 g",
     "third_alt_name": "Tortilla Chips Chili",
     "third_alt_brand": "Boni Selection",
-    "third_alt_content": "200 g"
+    "third_alt_content": "200 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 9539,
@@ -6387,7 +6741,8 @@
     "second_alt_content": "125 g",
     "third_alt_name": "Ribbelchips Peper & Zeezout",
     "third_alt_brand": "Boni Selection",
-    "third_alt_content": "200 g"
+    "third_alt_content": "200 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 9540,
@@ -6405,7 +6760,8 @@
     "second_alt_content": "125 g",
     "third_alt_name": "Crisps Chips Paprika",
     "third_alt_brand": "Boni Selection",
-    "third_alt_content": "170 g"
+    "third_alt_content": "170 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 3603,
@@ -6423,7 +6779,8 @@
     "second_alt_content": "40 g",
     "third_alt_name": "Groene Peper",
     "third_alt_brand": "Boni Selection",
-    "third_alt_content": "190 g"
+    "third_alt_content": "190 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 3623,
@@ -6441,7 +6798,8 @@
     "second_alt_content": "115 g",
     "third_alt_name": "Mama Mia's",
     "third_alt_brand": "Lay's",
-    "third_alt_content": "125 g"
+    "third_alt_content": "125 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 3642,
@@ -6459,7 +6817,8 @@
     "second_alt_content": "6 x 19 g",
     "third_alt_name": "B'Tween Pinda & Pindakaas",
     "third_alt_brand": "Hero",
-    "third_alt_content": "6 stuks"
+    "third_alt_content": "6 stuks",
+    "matchAltNb": []
   },
   {
     "product_identity": 3647,
@@ -6477,7 +6836,8 @@
     "second_alt_content": "100 g",
     "third_alt_name": "Kikkers & Muizen",
     "third_alt_brand": "Hamlet",
-    "third_alt_content": "192 g"
+    "third_alt_content": "192 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 3650,
@@ -6495,7 +6855,8 @@
     "second_alt_content": "200 g",
     "third_alt_name": "Speculaas",
     "third_alt_brand": "Van Doorn",
-    "third_alt_content": "250 g"
+    "third_alt_content": "250 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 3651,
@@ -6513,7 +6874,8 @@
     "second_alt_content": "350 g",
     "third_alt_name": "Amandel Speculaas",
     "third_alt_brand": "Van Doorn",
-    "third_alt_content": "200 g"
+    "third_alt_content": "200 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 3652,
@@ -6531,7 +6893,8 @@
     "second_alt_content": "1000 g",
     "third_alt_name": "Taai Taai",
     "third_alt_brand": "Bolletje",
-    "third_alt_content": "350 g"
+    "third_alt_content": "350 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 3653,
@@ -6549,7 +6912,8 @@
     "second_alt_content": "192 g",
     "third_alt_name": "Taai Taai",
     "third_alt_brand": "Bolletje",
-    "third_alt_content": "350 g"
+    "third_alt_content": "350 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 3648,
@@ -6567,7 +6931,8 @@
     "second_alt_content": "200 g",
     "third_alt_name": "Taai Taai",
     "third_alt_brand": "Bolletje",
-    "third_alt_content": "350 g"
+    "third_alt_content": "350 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 3649,
@@ -6585,7 +6950,8 @@
     "second_alt_content": "200 g",
     "third_alt_name": "Taai Taai",
     "third_alt_brand": "Bolletje",
-    "third_alt_content": "350 g"
+    "third_alt_content": "350 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 3691,
@@ -6603,7 +6969,8 @@
     "second_alt_content": "4 stuks",
     "third_alt_name": "Cashew Cookie",
     "third_alt_brand": "Nakd",
-    "third_alt_content": "4 stuks"
+    "third_alt_content": "4 stuks",
+    "matchAltNb": []
   },
   {
     "product_identity": 3692,
@@ -6621,12 +6988,13 @@
     "second_alt_content": "4 stuks",
     "third_alt_name": "Berry Delight",
     "third_alt_brand": "Nakd",
-    "third_alt_content": "4 stuks"
+    "third_alt_content": "4 stuks",
+    "matchAltNb": []
   },
   {
     "product_identity": 3700,
     "name": "Salademix Kruiden Knoflook",
-    "brand": "Calv\u00e9",
+    "brand": "Calvé",
     "content_summary": "24 g",
     "first_alt_prod_id": 952,
     "second_alt_prod_id": 1904,
@@ -6639,7 +7007,8 @@
     "second_alt_content": "55 g",
     "third_alt_name": "Kruidnagel Gemalen",
     "third_alt_brand": "Silvo",
-    "third_alt_content": "35 g"
+    "third_alt_content": "35 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 3702,
@@ -6657,7 +7026,8 @@
     "second_alt_content": "50 g",
     "third_alt_name": "Komijn Gemalen",
     "third_alt_brand": "Boni Selection",
-    "third_alt_content": "35 g"
+    "third_alt_content": "35 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 3963,
@@ -6675,7 +7045,8 @@
     "second_alt_content": "40 g",
     "third_alt_name": "Kids",
     "third_alt_brand": "ERU",
-    "third_alt_content": "100 g"
+    "third_alt_content": "100 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 3964,
@@ -6693,7 +7064,8 @@
     "second_alt_content": "6 x 19 g",
     "third_alt_name": "Mix Voor Gehakt",
     "third_alt_brand": "Silvo",
-    "third_alt_content": "40 g"
+    "third_alt_content": "40 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 3977,
@@ -6711,7 +7083,8 @@
     "second_alt_content": "500 g",
     "third_alt_name": "Soya Bio",
     "third_alt_brand": "Alpro",
-    "third_alt_content": "1000 mL"
+    "third_alt_content": "1000 mL",
+    "matchAltNb": []
   },
   {
     "product_identity": 3978,
@@ -6729,7 +7102,8 @@
     "second_alt_content": "500 g",
     "third_alt_name": "Soya Light",
     "third_alt_brand": "Alpro",
-    "third_alt_content": "1000 mL"
+    "third_alt_content": "1000 mL",
+    "matchAltNb": []
   },
   {
     "product_identity": 3979,
@@ -6747,7 +7121,8 @@
     "second_alt_content": "1000 mL",
     "third_alt_name": "Sojayoghurt Blauwe Bes",
     "third_alt_brand": "Alpro",
-    "third_alt_content": "500 g"
+    "third_alt_content": "500 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 3998,
@@ -6765,7 +7140,8 @@
     "second_alt_content": "100 g",
     "third_alt_name": "Balans Naturel",
     "third_alt_brand": "ERU",
-    "third_alt_content": "100 g"
+    "third_alt_content": "100 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 4011,
@@ -6783,7 +7159,8 @@
     "second_alt_content": "200 g",
     "third_alt_name": "Kids",
     "third_alt_brand": "ERU",
-    "third_alt_content": "100 g"
+    "third_alt_content": "100 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 4012,
@@ -6801,7 +7178,8 @@
     "second_alt_content": "100 g",
     "third_alt_name": "Guidkuipje Sambal",
     "third_alt_brand": "ERU",
-    "third_alt_content": "100 g"
+    "third_alt_content": "100 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 4013,
@@ -6819,7 +7197,8 @@
     "second_alt_content": "100 g",
     "third_alt_name": "Balans Naturel",
     "third_alt_brand": "ERU",
-    "third_alt_content": "100 g"
+    "third_alt_content": "100 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 4014,
@@ -6837,7 +7216,8 @@
     "second_alt_content": "100 g",
     "third_alt_name": "Balans Naturel",
     "third_alt_brand": "ERU",
-    "third_alt_content": "100 g"
+    "third_alt_content": "100 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 4015,
@@ -6855,7 +7235,8 @@
     "second_alt_content": "200 g",
     "third_alt_name": "Kids",
     "third_alt_brand": "ERU",
-    "third_alt_content": "100 g"
+    "third_alt_content": "100 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 4016,
@@ -6873,7 +7254,8 @@
     "second_alt_content": "100 g",
     "third_alt_name": "Goudkuipje Naturel",
     "third_alt_brand": "ERU",
-    "third_alt_content": "200 g"
+    "third_alt_content": "200 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 4017,
@@ -6891,7 +7273,8 @@
     "second_alt_content": "8 stuks",
     "third_alt_name": "Guidkuipje Sambal",
     "third_alt_brand": "ERU",
-    "third_alt_content": "100 g"
+    "third_alt_content": "100 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 4040,
@@ -6909,7 +7292,8 @@
     "second_alt_content": "185 g",
     "third_alt_name": "Verse Roomkaas Bieslook",
     "third_alt_brand": "Philadelphia",
-    "third_alt_content": "185 g"
+    "third_alt_content": "185 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 4041,
@@ -6927,7 +7311,8 @@
     "second_alt_content": "200 g",
     "third_alt_name": "Verse Roomkaas Bieslook",
     "third_alt_brand": "Philadelphia",
-    "third_alt_content": "185 g"
+    "third_alt_content": "185 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 4042,
@@ -6945,7 +7330,8 @@
     "second_alt_content": "200 g",
     "third_alt_name": "Verse Roomkaas Bieslook",
     "third_alt_brand": "Philadelphia",
-    "third_alt_content": "185 g"
+    "third_alt_content": "185 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 4043,
@@ -6963,7 +7349,8 @@
     "second_alt_content": "185 g",
     "third_alt_name": "Verse Roomkaas Bieslook",
     "third_alt_brand": "Philadelphia",
-    "third_alt_content": "185 g"
+    "third_alt_content": "185 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 4044,
@@ -6981,7 +7368,8 @@
     "second_alt_content": "185 g",
     "third_alt_name": "Roomkaas Original",
     "third_alt_brand": "Philadelphia",
-    "third_alt_content": "200 g"
+    "third_alt_content": "200 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 4061,
@@ -6999,7 +7387,8 @@
     "second_alt_content": "3 x 50 g",
     "third_alt_name": "Notenmixreep Honing Bio",
     "third_alt_brand": "BioToday",
-    "third_alt_content": "3 x 25 g"
+    "third_alt_content": "3 x 25 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 4062,
@@ -7017,7 +7406,8 @@
     "second_alt_content": "250 g",
     "third_alt_name": "Rozijnen",
     "third_alt_brand": "Boni Selection",
-    "third_alt_content": "250 g"
+    "third_alt_content": "250 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 4064,
@@ -7035,7 +7425,8 @@
     "second_alt_content": "95 g",
     "third_alt_name": "Tortilla Chips Chili",
     "third_alt_brand": "Boni Selection",
-    "third_alt_content": "200 g"
+    "third_alt_content": "200 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 4066,
@@ -7053,7 +7444,8 @@
     "second_alt_content": "3 x 25 g",
     "third_alt_name": "Pindarepen Bio",
     "third_alt_brand": "BioToday",
-    "third_alt_content": "3 x 25 g"
+    "third_alt_content": "3 x 25 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 4067,
@@ -7071,7 +7463,8 @@
     "second_alt_content": "125 g",
     "third_alt_name": "Chips Peper & Zout",
     "third_alt_brand": "Boni Selection",
-    "third_alt_content": "125 g"
+    "third_alt_content": "125 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 4069,
@@ -7089,7 +7482,8 @@
     "second_alt_content": "3 x 50 g",
     "third_alt_name": "Pinda Crunch Reep Bio",
     "third_alt_brand": "Zonnatura",
-    "third_alt_content": "3 stuks"
+    "third_alt_content": "3 stuks",
+    "matchAltNb": []
   },
   {
     "product_identity": 4072,
@@ -7107,7 +7501,8 @@
     "second_alt_content": "125 g",
     "third_alt_name": "Mini Crackers Pizza",
     "third_alt_brand": "Boni Selection",
-    "third_alt_content": "75 g"
+    "third_alt_content": "75 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 4094,
@@ -7125,7 +7520,8 @@
     "second_alt_content": "8 stuks",
     "third_alt_name": "Mueslirepen",
     "third_alt_brand": "Balisto",
-    "third_alt_content": "6 x 19 g"
+    "third_alt_content": "6 x 19 g",
+    "matchAltNb": []
   },
   {
     "product_identity": 4095,
@@ -7143,7 +7539,8 @@
     "second_alt_content": "6 stuks",
     "third_alt_name": "Assorti Box 5 Smaken ",
     "third_alt_brand": "Nakd",
-    "third_alt_content": "10 stuks"
+    "third_alt_content": "10 stuks",
+    "matchAltNb": []
   },
   {
     "product_identity": 5000,
@@ -7161,6 +7558,7 @@
     "second_alt_content": "4 stuks",
     "third_alt_name": "Sesamrepen Bio",
     "third_alt_brand": "BioToday",
-    "third_alt_content": "3 x 25 g"
+    "third_alt_content": "3 x 25 g",
+    "matchAltNb": []
   }
 ]

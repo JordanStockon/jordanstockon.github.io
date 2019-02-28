@@ -115,7 +115,7 @@
             index++;
             if (index == to) {
                 const wnd = window.open("about:blank", "", "_blank");
-                const result = (matches * 100 / nbProductsTested) + "%";
+                const result = (matches * 100 / nbProductsTested * 3) + "%";
                 const output = {"result": result, "from": from, "to": to, "products": testedProducts};
                 wnd.document.write('<div style="width:600px; margin:auto;"><iframe src="https://giphy.com/embed/IcGkqdUmYLFGE" width="600px" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>Thanks! Please copy paste the text bellow and share it with Dragos on Slack.</div><br/><br/>' + JSON.stringify(output));
             } else {
@@ -127,22 +127,34 @@
         let testedProducts = new Array(nbProductsTested);
         let currentAltNb = 0;
         function match(result) {
-            if (result) {
-                matches++;
-                data[index].match = result;
-                data[index].matchAltNb = currentAltNb+1;
+            if (currentAltNb < 2) {
+                if (result) {
+                    matches++;
+                    data[index].matchAltNb.push(currentAltNb+1);
+                }
                 testedProducts[index - from] = data[index];
-                showNextProduct();
-                currentAltNb = 0;
-            } else if (currentAltNb < 2) {
                 currentAltNb++;
                 showProducts(currentAltNb);
             } else {
-                data[index].match = false;
-                data[index].matchAltNb = 0;
-                testedProducts[index - from] = data[index];
                 showNextProduct();
+                currentAltNb = 0;
             }
+            // if (result) {
+            //     matches++;
+            //     data[index].match = result;
+            //     data[index].matchAltNb = currentAltNb+1;
+            //     testedProducts[index - from] = data[index];
+            //     showNextProduct();
+            //     currentAltNb = 0;
+            // } else if (currentAltNb < 2) {
+            //     currentAltNb++;
+            //     showProducts(currentAltNb);
+            // } else {
+            //     data[index].match = false;
+            //     data[index].matchAltNb = 0;
+            //     testedProducts[index - from] = data[index];
+            //     showNextProduct();
+            // }
 
         }
 
