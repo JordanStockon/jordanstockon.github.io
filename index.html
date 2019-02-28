@@ -116,7 +116,7 @@
                 const wnd = window.open("about:blank", "", "_blank");
                 const result = (matches * 100 / nbProductsTested) + "%";
                 const output = {"result": result, "from": from, "to": to, "products": testedProducts};
-                wnd.document.write('<div style="width:600px; margin:auto;"><iframe src="https://giphy.com/embed/IcGkqdUmYLFGE" width="600px" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><br/><br/>' + JSON.stringify(output));
+                wnd.document.write('<div style="width:600px; margin:auto;"><iframe src="https://giphy.com/embed/IcGkqdUmYLFGE" width="600px" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>Thanks! Please copy paste the text bellow and share it with Dragos on Slack.</div><br/><br/>' + JSON.stringify(output));
             } else {
                 showProducts(0);
             }
